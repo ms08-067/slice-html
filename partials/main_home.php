@@ -29,18 +29,33 @@
     				<div class="section-title">
     					<h1 class="text-center">NEWS & EVENTS</h1>
     				</div>
-    				<div class="list-card row">
-    					<div class="col-lg-12">
+
+    				<div class="list-card col-lg-12">
+    					<div class="row">
     						<div class="col col-lg-4">
-	    						<img src="./assets/img/card/card-1.jpg">
+	    						<img class="img-fluid" src="./assets/img/card/card-1.jpg">
 	    					</div>
 	    					<div class="col col-lg-4">
-	    						<img src="./assets/img/card/card-1.jpg">
+	    						<img class="img-fluid" src="./assets/img/card/card-1.jpg">
 	    					</div>
 	    					<div class="col col-lg-4">
-	    						<img src="./assets/img/card/card-1.jpg">
+	    						<img class="img-fluid" src="./assets/img/card/card-1.jpg">
 	    					</div>
     					</div>
+
+    					<div class="row">
+    						<div class="col col-lg-4">
+	    						<img class="img-fluid" src="./assets/img/card/card-1.jpg">
+	    					</div>
+	    					<div class="col col-lg-4">
+	    						<img class="img-fluid" src="./assets/img/card/card-1.jpg">
+	    					</div>
+	    					<div class="col col-lg-4">
+	    						<img class="img-fluid" src="./assets/img/card/card-1.jpg">
+	    					</div>
+    					</div>
+
+
     				</div>
     			</div>
     		</div>
