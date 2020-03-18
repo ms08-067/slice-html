@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+/*CSS viết toàn bộ trong file này */
+
+/********** Start  CSS header **************/
+.header{
+	height: 60px;
+	background: #ec6707;
+}
+ul.link-top li {
+	list-style: none;
+	display: inline-block;
+	border-right: solid 2px #FFF;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+ul.link-top li a{
+	color: #FFF;
+	text-transform: uppercase;
+}
+.header-top{width: 100%;
+clear: both;
+height: 30px;
+}
+.call-top {
+	color: #FFF;
+}
+.header-menu{
+	width: 100%;
+	background: #FFF;
+	height: 60px;
+}
+.img-logo {
+	height: 60px;
+}
+.menu li.nav-item a {
+	color: #636363;
+	text-transform: uppercase;
+
+}
+.menu li.active > a, .menu li.nav-item a:hover {
+	color: #94c11f !important;
+}
+
+/*************  End CSS Header *********************/
