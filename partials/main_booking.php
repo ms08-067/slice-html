@@ -1,22 +1,102 @@
 <div class="banner">
-	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-	  <div class="carousel-inner">
-	    <div class="carousel-item active">
-	      <img class="d-block w-100" src="./assets/img/banner.png" alt="First slide">
-	    </div>
-	    <div class="carousel-item">
-	      <img class="d-block w-100" src="./assets/img/banner_home.jpg" alt="Second slide">
-	    </div>
-	  </div>
-	  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-	    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-	    <span class="sr-only">Previous</span>
-	  </a>
-	  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-	    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-	    <span class="sr-only">Next</span>
-	  </a>
-	</div>
+	<div class="header-banner" >
+		<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+		    <div class="carousel-inner">
+		      <div class="carousel-item active">
+		        <img class="d-block w-100" src="./assets/img/banner.png" alt="First slide">
+		        <div class="carousel-caption">
+		        	<div class="container">
+		        		<div class="d-flex justify-content-between optionselect">
+		        			<div class="centera">
+							    <select name="sources" id="sources" class="custom-select sources " placeholder="City">
+								    <option value="profile">Profile</option>
+								    <option value="word">Word</option>
+								    <option value="hashtag">Hashtag</option>
+							  	</select>
+							    <div class="icon-all-banner" id="icon-faa">
+								  <i class="fa fa-map-marker iconfa-iconfa"></i>
+								</div>
+							</div>
+							<div class="centera">
+							  <select name="sources" id="sources" class="custom-select sources" placeholder="Golf course">
+							    <option value="profile">Profile</option>
+							    <option value="word">Word</option>
+							    <option value="hashtag">Hashtag</option>
+							  </select>
+							  <div class="icon-all-banner" id="icon-faa">
+								  <i class="fa fa-map-pin iconfa-iconfa"></i>
+								</div>
+							</div>
+							<div class="centera" >
+							  <select name="sources" id="sources" class="custom-select sources" placeholder="Date">
+							    <option value="profile">Profile</option>
+							    <option value="word">Word</option>
+							    <option value="hashtag">Hashtag</option>
+							  </select>
+							  <div class="icon-all-banner" id="icon-faa">
+								  <i class=" iconfa-iconfa fa fa-calendar"></i>
+								</div>
+							</div>
+							<div class="centera" id="icon-fa">
+							  <i class="fa fa-search iconfab"></i>
+							</div>
+		        		</div>
+		        	</div><!-- container -->
+		        </div><!-- carousel-caption -->
+		      </div>
+		      <div class="carousel-item">
+		        <img class="d-block w-100" src="./assets/img/banner_home.jpg" alt="Second slide">
+		        <div class="carousel-caption">
+		        	<div class="container">
+		        		<div class="d-flex justify-content-between optionselect">
+		        			<div class="centera">
+							    <select name="sources" id="sources" class="custom-select sources " placeholder="City">
+								    <option value="profile">Profile</option>
+								    <option value="word">Word</option>
+								    <option value="hashtag">Hashtag</option>
+							  	</select>
+							    <div class="icon-all-banner" id="icon-faa">
+								  <i class="fa fa-map-marker iconfa-iconfa"></i>
+								</div>
+							</div>
+							<div class="centera">
+							  <select name="sources" id="sources" class="custom-select sources" placeholder="Golf course">
+							    <option value="profile">Profile</option>
+							    <option value="word">Word</option>
+							    <option value="hashtag">Hashtag</option>
+							  </select>
+							  <div class="icon-all-banner" id="icon-faa">
+								  <i class="fa fa-map-pin iconfa-iconfa"></i>
+								</div>
+							</div>
+							<div class="centera" >
+							  <select name="sources" id="sources" class="custom-select sources" placeholder="Date">
+							    <option value="profile">Profile</option>
+							    <option value="word">Word</option>
+							    <option value="hashtag">Hashtag</option>
+							  </select>
+							  <div class="icon-all-banner" id="icon-faa">
+								  <i class=" iconfa-iconfa fa fa-calendar"></i>
+								</div>
+							</div>
+							<div class="centera" id="icon-fa">
+							  <i class="fa fa-search iconfab"></i>
+							</div>
+		        		</div>
+		        	</div><!-- container -->
+		        </div><!-- carousel-caption -->
+		      </div>
+		    </div>
+		    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+		      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		      <span class="sr-only">Previous</span>
+		    </a>
+		    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+		      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+		      <span class="sr-only">Next</span>
+		    </a>
+		  </div> <!-- het slide -->
+	</div><!-- header-banner -->
 </div>
 
 <div class="list-stadium">

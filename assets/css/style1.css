@@ -90,6 +90,145 @@ height: 30px;
 
 /********** Start  CSS Booking **************/
 
+/***************banner***************/
+.custom-select {
+    position: relative;
+    display: inline-block;
+  }
+    .custom-select-trigger {
+            position: relative;
+            display: block;
+            width: 220px;
+            padding: -3px 0px 0px 0px;
+            font-size: 20px;
+            font-weight: 300;
+            color:black;
+            line-height: 50px;
+            background: white;
+            margin-left: -28px;
+            margin-top: -8px;
+            border-radius: 30px;
+    }
+      .custom-select-trigger:after {
+        position: absolute;
+        display: block;
+        content: '';
+        width: 10px; height: 10px;
+        top: 50%; right: 25px;
+        margin-top: -3px;
+        border-bottom: 1px solid #94c11f;
+        border-right: 1px solid #94c11f;
+        transform: rotate(45deg) translateY(-50%);
+        transition: all .4s ease-in-out;
+        transform-origin: 50% 0;
+      }
+      .custom-select.opened .custom-select-trigger:after {
+        margin-top: 3px;
+        transform: rotate(-135deg) translateY(-50%);
+      }
+  .custom-options {
+    width: 220px;
+    position: absolute;
+    display: block;
+    top: 100%; left: 0; right: 0;
+    min-width: 100%;
+    margin: 15px 0;
+    border: 1px solid #b5b5b5;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-shadow: 0 2px 1px rgba(0,0,0,.07);
+    background: #fff;
+    transition: all .4s ease-in-out;
+    
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transform: translateY(-15px);
+  }
+  .custom-select.opened .custom-options {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: all;
+    transform: translateY(0);
+  }
+    .custom-options:before {
+      position: absolute;
+      display: block;
+      content: '';
+      bottom: 100%; right: 25px;
+      width: 7px; height: 7px;
+      margin-bottom: -4px;
+      border-top: 1px solid #b5b5b5;
+      border-left: 1px solid #b5b5b5;
+      background: #fff;
+      transform: rotate(45deg);
+      transition: all .4s ease-in-out;
+    }
+    .option-hover:before {
+      background: #f9f9f9;
+    }
+    .custom-option {
+      position: relative;
+      display: block;
+      padding: 0 22px;
+      border-bottom: 1px solid #b5b5b5;
+      font-size: 18px;
+      font-weight: 600;
+      color: #b5b5b5;
+      line-height: 47px;
+      cursor: pointer;
+      transition: all .4s ease-in-out;
+    }
+    .custom-option:first-of-type {
+      border-radius: 4px 4px 0 0;
+    }
+    .custom-option:last-of-type {
+      border-bottom: 0;
+      border-radius: 0 0 4px 4px;
+    }
+    .custom-option:hover,
+    .custom-option.selection {
+      background: #94c11f;
+      color: white;      
+    }
+
+.d-flex.justify-content-between.optionselect {
+    background: #1010106b;
+    height: 160px;
+    margin-bottom: -40px;
+}
+.custom-select-wrapper {
+    width: 100px;
+}
+.centera {
+    padding: 60px 0px 0px 20px;
+    margin: 0px 40px 0px 30px;
+}
+i.fa.fa-search.iconfab {
+    text-align: center;
+    padding: 16px;
+    margin-top: -4px;
+    background: #94c11f;
+    color: white;
+    font-size: 32px;
+    border-radius: 100px;
+}
+i.fa.iconfa-iconfa {
+    position: relative;
+    z-index: 4;
+    color: white;
+    top: -38px;
+    width: 48px;
+    background: #94c11f;
+    float: left;
+    height: 48px;
+    padding: 8px;
+    border-radius: 100px;
+    margin-left: -14px;
+    font-size: 36px;
+}
+/***************banner***************/
+/***************list-stadium***************/
 h3.subtitle {
     text-align: center;
     text-transform: uppercase;
@@ -200,5 +339,5 @@ a.btn.btn-outline-success.intro-dk:hover{
     background: white;
     color: #94c11f;
 }
-
+/***************list-stadium***************/
 /*************  End CSS Booking *********************/
