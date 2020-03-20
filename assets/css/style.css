@@ -72,11 +72,11 @@ height: 30px;
 	padding-top: 20px;
 }
 
-.main-home .section-title .text-center span {
+.main-booking .section-title .text-center span, .main-home .section-title .text-center span {
 	border-bottom: solid 3px #ec6707;
 	padding-bottom: 2px;
 }
-.main-home .section-title h1{
+.main-booking .section-title h1, .main-home .section-title h1{
 	font-size: 24px;
 }
 
@@ -396,21 +396,6 @@ i.fa.iconfa-iconfa {
     margin-left: -14px;
     font-size: 36px;
 }
-
-h3.subtitle {
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: 900;
-    color: #363636;
-    font-size: 20px;
-    line-height: 2.4000000000000004rem;
-}
-hr.hrhr {
-    border-top: 4px solid #f58220;
-    width: 190px;
-    margin-top: 10px;
-}
-
 .d-flex.bd-highlight.subwrap {
     border: solid 1px #ddd;
     border-radius: 30px;
@@ -515,8 +500,7 @@ a.btn.btn-outline-success.intro-dk:hover{
 	font-size: 24px;
 }
 .partner-booking .text-center span {
-    border-bottom: solid 3px #fff;
-    padding-bottom: 2px;
+    border-bottom: solid 3px #fff !important;
 }
 /*************  End CSS Booking *********************/
 
