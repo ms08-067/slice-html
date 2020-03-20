@@ -1,4 +1,15 @@
 <div class="footer-l">
+	
+	<div class="row-icon-download">
+		<a href="./home.php">
+			<img class="icon-download-app" src="./assets/img/icon/icon-download-ios.jpg">
+
+		</a>
+		<a href="./home.php">
+			<img class="icon-download-app" src="./assets/img/icon/icon-download-android.jpg">
+		</a>
+	</div>
+
 	<div class="row-footer-left">
 		<div class="footer-left-left">
 			<p class="txt-l-footer">© 2020 SGolf All Rights Reserved.</p>

@@ -8,8 +8,7 @@
 
 
 <link href="./assets/packages/bootstrap-4.0/css/bootstrap.css" rel="stylesheet"/>
-<link href="./assets/css/style1.css" rel="stylesheet"/>
-
+<link href="./assets/css/style.css" rel="stylesheet"/>
 </head>
 
 <body>

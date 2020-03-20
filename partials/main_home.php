@@ -22,7 +22,6 @@
 
 	<div class="list-news">
 		<!-- <img style="height: 766px;width: 100%;" src="./assets/img/news.jpg" /> -->
-
 		<div class="container">
 			<div class="row">
     			<div class="col col-lg-12">

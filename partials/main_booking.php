@@ -3,7 +3,7 @@
 		<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
 		    <div class="carousel-inner">
 		      <div class="carousel-item active">
-		        <img class="d-block w-100" src="./assets/img/banner.png" alt="First slide">
+		        <img class="d-block w-100" src="./assets/img/slider/booking-slider-1.png">
 		        <div class="carousel-caption">
 		        	<div class="container">
 		        		<div class="d-flex justify-content-between optionselect">
@@ -45,7 +45,7 @@
 		        </div><!-- carousel-caption -->
 		      </div>
 		      <div class="carousel-item">
-		        <img class="d-block w-100" src="./assets/img/banner_home.jpg" alt="Second slide">
+		        <img class="d-block w-100" src="./assets/img/slider/booking-slider-1.png">
 		        <div class="carousel-caption">
 		        	<div class="container">
 		        		<div class="d-flex justify-content-between optionselect">
@@ -410,6 +410,38 @@
 	</div>
 </div>
 
-<div class="partner">
-	<img style="height: 200px;width: 100%;" src="./assets/img/partner.jpg" />
+<div class="partner-booking">
+	<!-- <img style="height: 200px;width: 100%;" src="./assets/img/partner.jpg" /> -->
+	<div class="container">
+		<div class="row">
+			<div class="col col-lg-12">
+				<div class="section-title">
+					<h1 class="text-center"><span>Golf Course Partner</span></h1>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="row">
+		    	<div class="col col-lg-2 center">
+		    		<a href="javascript:void()"><img class="img-fluid img-partner" src="./assets/img/partner/partner-1.jpg"></a>
+		    	</div>
+		    	<div class="col col-lg-2 center">
+		    		<a href="javascript:void()"><img class="img-fluid img-partner" src="./assets/img/partner/partner-2.jpg"></a>
+		    	</div>
+		    	<div class="col col-lg-2 center">
+		    		<a href="javascript:void()"><img class="img-fluid img-partner" src="./assets/img/partner/partner-3.jpg"></a>
+		    	</div>
+		    	<div class="col col-lg-2 center">
+		    		<a href="javascript:void()"><img class="img-fluid img-partner" src="./assets/img/partner/partner-4.jpg"></a>
+		    	</div>
+		    	<div class="col col-lg-2 center">
+		    		<a href="javascript:void()"><img class="img-fluid img-partner" src="./assets/img/partner/partner-5.jpg"></a>
+		    	</div>
+		    	<div class="col col-lg-2 center">
+		    		<a href="javascript:void()"><img class="img-fluid img-partner" src="./assets/img/partner/partner-6.jpg"></a>
+		    	</div>
+			</div>
+
+    </div>				
 </div>
