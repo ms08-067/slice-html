@@ -130,7 +130,9 @@ height: 30px;
 .partner-home img {
 	height: 110px;
 }
+.align-left {text-align: left;}
 .center {text-align: center;}
+.align-right {text-align: right;}
 .about-us {
 	height: 408px;width: 100%;
 	background: url("../images/bg-about-us.jpg");
@@ -503,15 +505,16 @@ a.btn.btn-outline-success.intro-dk:hover{
 }
 /*************  End CSS Booking *********************/
 
-/*************  Start CSS Dang_nhap Page *********************/
-.main-login {
+/*************  Start CSS Dang_nhap, Dang Ky Page *********************/
+.main-login, .main-register {
 	height: 480px;
 	width: 100%;
 	background: url("../images/bg-main-login.jpg");
 	background-size: 100%;
 	background-position: 0px -122px;	
 }
-.main-login .box-login {
+
+.main-login .box-login, .main-register .box-register {
 	position: absolute;
     left: 150px;
     width: 500px;
@@ -522,7 +525,13 @@ a.btn.btn-outline-success.intro-dk:hover{
     /*padding: 20px 30px;*/
 
 }
-.box-login h3 {
+.main-register .box-register {
+	top: 104px !important
+}
+.main-register .box-register {
+ 	height: 408px !important;
+}
+.box-login h3, .box-register h3 {
 	background: #8DBF41;
     color: white;
     text-align: center;
@@ -531,13 +540,18 @@ a.btn.btn-outline-success.intro-dk:hover{
     border-top-left-radius: 40px;
     border-top-right-radius: 40px;
 }
-.box-login .frm-login{
+.box-login .frm-login, .box-register .frm-register{
 	margin: 30px 34px;
 }
-.box-login .frm-login .form-group {
+.box-login .frm-login .form-group, .box-register .frm-register .form-group {
 	margin-bottom: 22px;
 }
-/*************  End CSS Dang_nhap Page  *********************/
+.btn-theme1 {
+    background: #ec6707;
+    color: #fff;
+    font-weight: bold;
+}
+/*************  End CSS Dang_nhap, Dang_Ky Page  *********************/
 
 /*************  Start CSS Checkout *********************/
 
