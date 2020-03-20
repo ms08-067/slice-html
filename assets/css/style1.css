@@ -340,4 +340,37 @@ a.btn.btn-outline-success.intro-dk:hover{
     color: #94c11f;
 }
 /***************list-stadium***************/
+
+/***************Checkout***************/
+.main-checkout{
+    background: #f8f8f8;
+}
+.online-payment {
+    margin-top: 80px;
+    background: #8dbf41;
+    color: white;
+    padding: 12px 0px 6px 0px;
+}
+.img-online-payment{
+    width: 20px;
+    margin-right: 8px;
+    margin-top: -6px;
+}
+.text-p{
+    float: right;
+    margin-top: -30px;
+    margin-right: 20px;
+}
+.tr-bill{
+    background: #fefefe;
+    border: solid 3px white;
+}
+button.btn.btn-danger.btn-bill {
+    width: 90%;
+    border-radius: 20px;
+    background: #94c11f;
+    border:solid 1px #94c11f;
+}
+/***************Checkout***************/
+
 /*************  End CSS Booking *********************/
