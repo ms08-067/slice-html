@@ -1,4 +1,4 @@
-<div class="banner">
+<div class="banner-booking-retail">
 	<img style="height: 400px;width: 100%;" src="./assets/img/banner_booking_retail.jpg" />
 </div>
 
@@ -6,6 +6,6 @@
 	<img style="height: 766px;width: 100%;" src="./assets/img/tee_time.jpg" />
 </div>
 
-<div class="partner">
+<div class="partner-booking-retail">
 	<img style="height: 200px;width: 100%;" src="./assets/img/partner.jpg" />
 </div>
