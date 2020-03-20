@@ -2,47 +2,46 @@
 /* CSS Document */
 /*CSS viết toàn bộ trong file này */
 
-
 /********** Start  CSS header **************/
 .header{
-	height: 60px;
-	background: #ec6707;
+    height: 60px;
+    background: #ec6707;
 }
 ul.link-top li {
-	list-style: none;
-	display: inline-block;
-	border-right: solid 2px #FFF;
-	padding-left: 10px;
-	padding-right: 10px;
+    list-style: none;
+    display: inline-block;
+    border-right: solid 2px #FFF;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 ul.link-top li a{
-	color: #FFF;
-	text-transform: uppercase;
+    color: #FFF;
+    text-transform: uppercase;
 }
 .header-top{width: 100%;
 clear: both;
 height: 30px;
 }
 .call-top {
-	color: #FFF;
+    color: #FFF;
 }
 .header-menu{
-	width: 100%;
-	background: #FFF;
-	height: 60px;
-	position: absolute;
+    width: 100%;
+    background: #FFF;
+    height: 60px;
+    position: absolute;
     z-index: 1;
 }
 .img-logo {
-	height: 60px;
+    height: 60px;
 }
 .menu li.nav-item a {
-	color: #636363;
-	text-transform: uppercase;
+    color: #636363;
+    text-transform: uppercase;
 
 }
 .menu li.active > a, .menu li.nav-item a:hover {
-	color: #94c11f !important;
+    color: #94c11f !important;
 }
 
 /*************  End CSS Header *********************/
@@ -54,10 +53,10 @@ height: 30px;
       height: 100%;
 }
 .link-rigister:hover {
-	text-decoration: none;
+    text-decoration: none;
 }
 .link-rigister {
-	text-transform: uppercase;
+    text-transform: uppercase;
     position: absolute;
     background: #ec6707;
     z-index: 2;
@@ -68,65 +67,234 @@ height: 30px;
     padding: 6px 10px;
 }
 .section-title {
-	width: 100%;
-	height: 80px;
-	padding-top: 20px;
+    width: 100%;
+    height: 80px;
+    padding-top: 20px;
 }
-.section-title h1{
-	font-size: 24px;
+
+.main-booking .section-title .text-center span, .main-home .section-title .text-center span {
+    border-bottom: solid 3px #ec6707;
+    padding-bottom: 2px;
+}
+.main-booking .section-title h1, .main-home .section-title h1{
+    font-size: 24px;
+}
+
+.list-card .row {
+    margin-bottom: 32px;
+}
+.card-title {
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #092b5c;
+    margin-bottom: 2px;
+    font-weight: 700;
+}
+.card-body .txt-date {
+    color: #959595;
+    font-size: 11px;
+}
+.card-body {
+    padding: 12px 16px 8px !important;
+}
+.card-text{
+    font-size: 12px;
+    margin-bottom: 10px;
+    margin-top: 6px;
+}
+.card-body .share {
+    color: #636363 !important;
+    font-size: 10px;
+}
+.card-body .icon-share {
+    margin-top: -3px;   
+}
+.card-body .read-more:hover, .card-body .share:hover {
+    text-decoration: unset;
+}
+.card-body .read-more {
+    color: #94c11f !important;
+    font-size: 10px;
+}
+.card-body hr{
+    margin-top: 2px;
+    margin-bottom: 6px;
+    border-top: 1px solid #dbdbbb;
+}
+.partner-home {
+    height: 400px;
+    width: 100%;
+    background: #94c11f;
+    padding-top: 24px;
+}
+.partner-home img {
+    height: 110px;
+}
+.center {text-align: center;}
+.about-us {
+    height: 408px;width: 100%;
+    background: url("../images/bg-about-us.jpg");
+    background-size: 100%;
+}
+.content-about-us {
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.content-about-us {
+    text-align: justify;
+}
+.content-about-us p {
+    font-size: 12px;
+}
+.title-statistic {
+    width: 210px;
+    display: inline-block;
+    color: #94c11f;
+    font-size: 24px;
+    font-style: italic;
+}
+.txt-statistic {
+    font-size: 20px;
 }
 /*************  End CSS Home Page *********************/
 
+/*************  Start CSS Footer *********************/
+.footer {
+    height: 162px;
+    width: 100%;
+    background: #FFF;
+}
+.footer-l, .footer-r {
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.footer-l {
+    background: url("../images/bg-footer-left.jpg");
+    background-size: 100%;
+}
+.footer-r-top-l, .footer-r-top-r {
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.footer-info {
+    font-size: 12px;
+    border-left: solid 2px #94c11f;
+    padding-left: 8px;
+}
+.footer-img-logo {
+    width: 172px;
+}
+.btn-submit {
+    background: #94c11f;
+    color: #FFF;
+    text-transform: uppercase;
+    margin-top: -6px;
+}
+.footer-r-top {
+    width: 100%;
+    height: 86px;
+    clear: both;
+    overflow: hidden;
+    padding-top: 10px;
+    margin-bottom: 8px;
+}
+.footer-r-bottom {
+    width: 100%;
+    height: 44px;
+}
+.row-subscribe {
+    display: inline-block;
+}
+#subcribe {
+    width: 348px;
+}
+.lbl-subbscribe {
+    width: 90px;
+}
+.footer-r-bottom .box-subscribe {
+    padding-left: 60px;
+    padding-top: 4px;
+}
+.footer-l .row-footer-left {
+    position: absolute;
+}
 
+.footer-l .footer-left-left, .footer-l .footer-left-right{
+    float: left;
+}
 
+.footer-l .txt-l-footer {
+    color: #FFF;
+    position: absolute;
+    bottom: -162px;
+    width: 263px;
+    left: 88px;
+}
 
+.footer-left-right .icon-footer {
+    display: inline-block;
+    width: 40px;
+    margin-right: 14px;
+}
 
+.footer-left-right {
+    position: absolute;
+    display: inline-flex;
+    left: 396px;
+    top: 110px;
+}
 
+.footer-l .row-icon-download {
+    position: absolute;
+    display: inline-flex;
+    left: 464px;
+}
+.footer-l .row-icon-download .icon-download-app {
+    width: 40px;
+    margin-top: 52px;
+    margin-right: 12px;
+}
+/*************  End CSS Footer *********************/
 
-
-
-
-
-
-/********** Start  CSS Booking **************/
-
-/***************banner***************/
+/*************  Start CSS Booking *********************/
 .custom-select {
     position: relative;
     display: inline-block;
-  }
-    .custom-select-trigger {
-            position: relative;
-            display: block;
-            width: 220px;
-            padding: -3px 0px 0px 0px;
-            font-size: 20px;
-            font-weight: 300;
-            color:black;
-            line-height: 50px;
-            background: white;
-            margin-left: -28px;
-            margin-top: -8px;
-            border-radius: 30px;
-    }
-      .custom-select-trigger:after {
-        position: absolute;
-        display: block;
-        content: '';
-        width: 10px; height: 10px;
-        top: 50%; right: 25px;
-        margin-top: -3px;
-        border-bottom: 1px solid #94c11f;
-        border-right: 1px solid #94c11f;
-        transform: rotate(45deg) translateY(-50%);
-        transition: all .4s ease-in-out;
-        transform-origin: 50% 0;
-      }
-      .custom-select.opened .custom-select-trigger:after {
-        margin-top: 3px;
-        transform: rotate(-135deg) translateY(-50%);
-      }
-  .custom-options {
+}
+.custom-select-trigger {
+    position: relative;
+    display: block;
+    width: 220px;
+    padding: -3px 0px 0px 0px;
+    font-size: 20px;
+    font-weight: 300;
+    color:black;
+    line-height: 50px;
+    background: white;
+    margin-left: -28px;
+    margin-top: -8px;
+    border-radius: 30px;
+}
+.custom-select-trigger:after {
+    position: absolute;
+    display: block;
+    content: '';
+    width: 10px; height: 10px;
+    top: 50%; right: 25px;
+    margin-top: -3px;
+    border-bottom: 1px solid #94c11f;
+    border-right: 1px solid #94c11f;
+    transform: rotate(45deg) translateY(-50%);
+    transition: all .4s ease-in-out;
+    transform-origin: 50% 0;
+}
+.custom-select.opened .custom-select-trigger:after {
+    margin-top: 3px;
+    transform: rotate(-135deg) translateY(-50%);
+}
+.custom-options {
     width: 220px;
     position: absolute;
     display: block;
@@ -139,19 +307,19 @@ height: 30px;
     box-shadow: 0 2px 1px rgba(0,0,0,.07);
     background: #fff;
     transition: all .4s ease-in-out;
-    
+
     opacity: 0;
     visibility: hidden;
     pointer-events: none;
     transform: translateY(-15px);
-  }
-  .custom-select.opened .custom-options {
+}
+.custom-select.opened .custom-options {
     opacity: 1;
     visibility: visible;
     pointer-events: all;
     transform: translateY(0);
-  }
-    .custom-options:before {
+}
+.custom-options:before {
       position: absolute;
       display: block;
       content: '';
@@ -163,11 +331,11 @@ height: 30px;
       background: #fff;
       transform: rotate(45deg);
       transition: all .4s ease-in-out;
-    }
-    .option-hover:before {
-      background: #f9f9f9;
-    }
-    .custom-option {
+}
+.option-hover:before {
+    background: #f9f9f9;
+}
+.custom-option {
       position: relative;
       display: block;
       padding: 0 22px;
@@ -178,19 +346,19 @@ height: 30px;
       line-height: 47px;
       cursor: pointer;
       transition: all .4s ease-in-out;
-    }
-    .custom-option:first-of-type {
-      border-radius: 4px 4px 0 0;
-    }
-    .custom-option:last-of-type {
+}
+.custom-option:first-of-type {
+    border-radius: 4px 4px 0 0;
+}
+.custom-option:last-of-type {
       border-bottom: 0;
       border-radius: 0 0 4px 4px;
-    }
-    .custom-option:hover,
-    .custom-option.selection {
-      background: #94c11f;
-      color: white;      
-    }
+}
+.custom-option:hover,
+.custom-option.selection {
+  background: #94c11f;
+  color: white;      
+}
 
 .d-flex.justify-content-between.optionselect {
     background: #1010106b;
@@ -226,25 +394,6 @@ i.fa.iconfa-iconfa {
     border-radius: 100px;
     margin-left: -14px;
     font-size: 36px;
-}
-/***************banner***************/
-/***************list-stadium***************/
-h3.subtitle {
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: 900;
-    color: #363636;
-    font-size: 20px;
-    line-height: 2.4000000000000004rem;
-}
-hr.hrhr {
-    border-top: 4px solid #f58220;
-    width: 190px;
-    margin-top: 10px;
-}
-p.card-text {
-    margin-top: -10px;
-    font-size: 13px;
 }
 .d-flex.bd-highlight.subwrap {
     border: solid 1px #ddd;
@@ -339,9 +488,58 @@ a.btn.btn-outline-success.intro-dk:hover{
     background: white;
     color: #94c11f;
 }
-/***************list-stadium***************/
+.partner-booking {
+    height: 250px;
+    width: 100%;
+    background: #94c11f;
+}
+.partner-booking .text-center {
+    text-transform: uppercase;
+    color: #FFF;
+    font-size: 24px;
+}
+.partner-booking .text-center span {
+    border-bottom: solid 3px #fff !important;
+}
+/*************  End CSS Booking *********************/
 
-/***************Checkout***************/
+/*************  Start CSS Dang_nhap Page *********************/
+.main-login {
+    height: 480px;
+    width: 100%;
+    background: url("../images/bg-main-login.jpg");
+    background-size: 100%;
+    background-position: 0px -122px;    
+}
+.main-login .box-login {
+    position: absolute;
+    left: 150px;
+    width: 500px;
+    height: 310px;
+    background: #fff;
+    top: 140px;
+    border-radius: 40px;
+    /*padding: 20px 30px;*/
+
+}
+.box-login h3 {
+    background: #8DBF41;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+.box-login .frm-login{
+    margin: 30px 34px;
+}
+.box-login .frm-login .form-group {
+    margin-bottom: 22px;
+}
+/*************  End CSS Dang_nhap Page  *********************/
+
+/*************  Start CSS Checkout *********************/
 .main-checkout{
     background: #f8f8f8;
 }
@@ -371,6 +569,4 @@ button.btn.btn-danger.btn-bill {
     background: #94c11f;
     border:solid 1px #94c11f;
 }
-/***************Checkout***************/
-
-/*************  End CSS Booking *********************/
+/*************  End CSS Checkout *********************/
