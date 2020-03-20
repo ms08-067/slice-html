@@ -14,6 +14,7 @@
 			      <th scope="col" style="width: 34%;"><button type="button" class="btn btn-danger btn-bill">Thành tiền</button></th>
 			    </tr>
 			  </thead>
+			  
 			  <tbody>
 			    <tr>
 			      <th>07:00</th>
