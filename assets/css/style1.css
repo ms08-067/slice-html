@@ -603,3 +603,37 @@ button.btn.btn-danger.btn-bill-fourth {
     background: #fefefe;
 }
 /*************  End CSS Checkout *********************/
+
+
+/*************  Start CSS booking_retail *********************/
+.card-booking-retail{
+    background: #ebebeb;
+}
+h2.card-title.h-booking-retail {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.list-teetime-date{
+    width: 20%;
+}
+.list-teetime-time{
+    width: 48%;
+}
+.list-teetime-person{
+    width: 16%;
+}
+.list-teetime-destination{
+    width: 16%;
+}
+input.fa-datepicker{
+    border: solid 1px #94c11f;
+    width: 100%;
+    border-radius: 20px;
+    padding: 6px 0px 4px 40px;
+}
+.fa-datepicker{
+    color: white;
+    background: #94c11f;
+}
+/*************  End CSS booking_retail *********************/

@@ -5,6 +5,10 @@
 <title>Booking Retail</title>
 <link href="./assets/packages/bootstrap-4.0/css/bootstrap.css" rel="stylesheet"/>
 <link href="./assets/css/style1.css" rel="stylesheet"/>
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
+
 </head>
 
 <body>
@@ -18,6 +22,10 @@
     	<?php include("partials/footer.php"); ?>
     </div>
 </div><!-- end div.wrapper -->
+
+<script src="./assets/packages/jquery/jquery-3.4.1.min.js"></script>
+<script src="./assets/packages/bootstrap-4.0/js/bootstrap.js"></script>
+
 <script src="./assets/packages/jquery/jquery-3.4.1.min.js"></script>
 </body>
 </html>
