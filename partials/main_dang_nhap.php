@@ -12,15 +12,24 @@
 		        <input class="form-control col-md-12" type="password" name="password" id="password" placeholder="password">
 		            </div>    
 
-		    <div class="form-group">
-		        <input type="submit" name="submit" id="btnLogin" class="btn-login-ok" value="Đăng Nhập">
+		    <div class="form-group row">
+		        <div class="col col-lg-4">
+		        	
+		        </div>
+		        <div class="col col-lg-4 center">
+		        	<input type="submit" name="submit" id="btnLogin" class="btn btn-theme1" value="Đăng Nhập">
+		        </div>
+		        <div class="col col-lg-4">
+		        	
+		        </div>
+		        
 		    </div>
-		    <div class="form-group">
-		        <label class="col-md-6">
-		            <a href="http://localhost/sgolf/vn/forgot-pass.html" title="Quên mật khẩu">Quên mật khẩu?</a>
+		    <div class="form-group row">
+		        <label class="col col-lg-6">
+		            <a href="" title="Quên mật khẩu">Quên Mật Khẩu?</a>
 		        </label>
-		        <label class="col-md-6">
-		            <a href="http://localhost/sgolf/vn/register.html" title="Đăng ký" class="register">Đăng ký</a>
+		        <label class="col col-lg-6 align-right">
+		            <a href="./dang_ky.php" title="Đăng ký" class="register">Đăng Ký</a>
 		        </label>
 		    </div>
 		</form>
