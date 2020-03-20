@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Trang Chủ</title>
+<title>Booking Retail</title>
 <link href="./assets/packages/bootstrap-4.0/css/bootstrap.css" rel="stylesheet"/>
 <link href="./assets/css/style1.css" rel="stylesheet"/>
 </head>

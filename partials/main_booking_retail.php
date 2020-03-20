@@ -6,6 +6,6 @@
 	<img style="height: 766px;width: 100%;" src="./assets/img/tee_time.jpg" />
 </div>
 
-<div class="partner-booking-retail">
-	<img style="height: 200px;width: 100%;" src="./assets/img/partner.jpg" />
+<div class="partner-booking">
+	<?php include("./partials/partner-booking.php") ?>	
 </div>
