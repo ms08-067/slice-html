@@ -559,14 +559,47 @@ a.btn.btn-outline-success.intro-dk:hover{
     margin-top: -30px;
     margin-right: 20px;
 }
-.tr-bill{
-    background: #fefefe;
-    border: solid 3px white;
-}
 button.btn.btn-danger.btn-bill {
     width: 90%;
     border-radius: 20px;
     background: #94c11f;
     border:solid 1px #94c11f;
+}
+.in-main-checkout{
+    background: white;
+}
+.h-img-checkout{
+    text-align: center;
+}
+.col-tr-bill-first{
+    width: 18%;
+    text-align: center;
+}
+.col-tr-bill-second{
+    width: 24%;
+    text-align: center;
+}
+.col-tr-bill-third{
+    width: 24%;
+    text-align: center;
+}
+.col-tr-bill-fourth{
+    width: 34%;
+    text-align: center;
+}
+button.btn.btn-danger.btn-bill-fourth {
+    width: 90%;
+    border-radius: 20px;
+    background: #ec6707;
+    border:solid 1px #94c11f;
+}
+.tr-bill{
+    text-align: center;
+}
+.th-bill{
+    color: #94c11f;
+}
+.come-back-pay{
+    background: #fefefe;
 }
 /*************  End CSS Checkout *********************/
