@@ -3,8 +3,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Booking</title>
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 <link href="./assets/packages/bootstrap-4.0/css/bootstrap.css" rel="stylesheet"/>
-<link href="./assets/css/style.css" rel="stylesheet"/>
+<link href="./assets/css/style1.css" rel="stylesheet"/>
+
 </head>
 
 <body>
@@ -19,5 +24,8 @@
     </div>
 </div><!-- end div.wrapper -->
 <script src="./assets/packages/jquery/jquery-3.4.1.min.js"></script>
+<script src="./assets/packages/bootstrap-4.0/js/bootstrap.js"></script>
+
+<script type="text/javascript" src="assets/js/javascript.js"></script>
 </body>
 </html>
