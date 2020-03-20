@@ -71,9 +71,14 @@ height: 30px;
 	height: 80px;
 	padding-top: 20px;
 }
+.text-center span {
+	border-bottom: solid 3px #ec6707;
+	padding-bottom: 2px;
+}
 .section-title h1{
 	font-size: 24px;
 }
+<<<<<<< HEAD
 /*************  End CSS Home Page *********************/
 
 
@@ -82,3 +87,164 @@ height: 30px;
 
 
 
+=======
+.list-card .row {
+	margin-bottom: 32px;
+}
+.card-title {
+	text-transform: uppercase;
+	font-size: 13px;
+	color: #092b5c;
+	margin-bottom: 2px;
+	font-weight: 700;
+}
+.card-body .txt-date {
+	color: #959595;
+	font-size: 11px;
+}
+.card-body {
+	padding: 12px 16px 8px !important;
+}
+.card-text{
+	font-size: 12px;
+	margin-bottom: 10px;
+	margin-top: 6px;
+}
+.card-body .share {
+	color: #636363 !important;
+	font-size: 10px;
+}
+.card-body .icon-share {
+	margin-top: -3px;	
+}
+.card-body .read-more:hover, .card-body .share:hover {
+	text-decoration: unset;
+}
+.card-body .read-more {
+	color: #94c11f !important;
+	font-size: 10px;
+}
+.card-body hr{
+	margin-top: 2px;
+    margin-bottom: 6px;
+    border-top: 1px solid #dbdbbb;
+}
+.partner-home {
+	height: 400px;
+	width: 100%;
+	background: #94c11f;
+	padding-top: 24px;
+}
+.partner-home img {
+	height: 110px;
+}
+.center {text-align: center;}
+.about-us {
+	height: 408px;width: 100%;
+	background: url("../images/bg-about-us.jpg");
+	background-size: 100%;
+}
+.content-about-us {
+	padding-left: 30px;
+	padding-right: 20px;
+}
+.content-about-us {
+	text-align: justify;
+}
+.content-about-us p {
+	font-size: 12px;
+}
+.title-statistic {
+	width: 210px;
+	display: inline-block;
+	color: #94c11f;
+	font-size: 24px;
+	font-style: italic;
+}
+.txt-statistic {
+	font-size: 20px;
+}
+/*************  End CSS Home Page *********************/
+
+/*************  Start CSS Footer *********************/
+.footer {
+	height: 162px;
+	width: 100%;
+	background: #FFF;
+}
+.footer-l, .footer-r {
+	width: 50%;
+	float: left;
+	height: 100%;
+}
+.footer-l {
+	background: url("../images/bg-footer-left.jpg");
+	background-size: 100%;
+}
+.footer-r-top-l, .footer-r-top-r {
+	width: 50%;
+	float: left;
+	height: 100%;
+}
+.footer-info {
+	font-size: 12px;
+    border-left: solid 2px #94c11f;
+    padding-left: 8px;
+}
+.footer-img-logo {
+	width: 172px;
+}
+.btn-submit {
+	background: #94c11f;
+	color: #FFF;
+	text-transform: uppercase;
+	margin-top: -6px;
+}
+.footer-r-top {
+	width: 100%;
+	height: 86px;
+	clear: both;
+	overflow: hidden;
+	padding-top: 10px;
+	margin-bottom: 8px;
+}
+.footer-r-bottom {
+	width: 100%;
+	height: 44px;
+}
+.row-subscribe {
+	display: inline-block;
+}
+#subcribe {
+	width: 348px;
+}
+.lbl-subbscribe {
+	width: 90px;
+}
+.footer-r-bottom .box-subscribe {
+	padding-left: 60px;
+	padding-top: 4px;
+}
+.footer-l .row-footer-left {
+	position: absolute;
+}
+.footer-l .footer-left-left, .footer-l .footer-left-right{
+ float: left;
+
+}
+.footer-l .txt-l-footer {
+	color: #FFF;
+    position: absolute;
+    bottom: -162px;
+    width: 263px;
+    left: 88px;
+}
+
+.footer-left-right .icon-footer {
+	display: inline-block;
+}
+.footer-left-right {
+	
+}
+/*************  End CSS Footer *********************/
+>>>>>>> f1956806497ac428f9fbb76f2d734d21b10ada88
