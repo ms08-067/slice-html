@@ -504,6 +504,42 @@ a.btn.btn-outline-success.intro-dk:hover{
 }
 /*************  End CSS Booking *********************/
 
+/*************  Start CSS Dang_nhap Page *********************/
+.main-login {
+	height: 480px;
+	width: 100%;
+	background: url("../images/bg-main-login.jpg");
+	background-size: 100%;
+	background-position: 0px -122px;	
+}
+.main-login .box-login {
+	position: absolute;
+    left: 150px;
+    width: 500px;
+    height: 310px;
+    background: #fff;
+    top: 140px;
+    border-radius: 40px;
+    /*padding: 20px 30px;*/
+
+}
+.box-login h3 {
+	background: #8DBF41;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+.box-login .frm-login{
+	margin: 30px 34px;
+}
+.box-login .frm-login .form-group {
+	margin-bottom: 22px;
+}
+/*************  End CSS Dang_nhap Page  *********************/
+
 /*************  Start CSS Checkout *********************/
 
 

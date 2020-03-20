@@ -333,10 +333,15 @@
 		</div>
 		<div id="list-stadium-bottom">
 			<div class="container">
-				<div class="col-sm-12">
-					<h3 class="subtitle">GOLF TOURNAMENT</h3>
-					<hr class="hrhr">
+
+				<div class="row">
+	    			<div class="col col-lg-12">
+						<div class="section-title">
+							<h1 class="text-center"><span>GOLF TOURNAMENT</span></h1>
+						</div>
+					</div>
 				</div>
+
 				<div class="col-sm-12">
 					<div class="card-deck">
 						  <div class="card">
