@@ -28,9 +28,6 @@
 		<div class="d-flex bd-highlight">
 		  <div class="p-2 flex-fill bd-highlight list-teetime-date">
 		  	<div class="panel-input-date">
-                   <!-- <form>
-					  <input type="date" id="birthday" name="birthday" class="iconfa-iconfa fa fa-calendar fa-datepicker">
-					</form> -->
 					<input class="form-control" type="date" value="2011-08-19" id="example-date-input">
 					<div class="icon-all-banner" id="icon-faa">
 					  <i class=" iconfa-iconfa iconfa-iconfafa fa fa-calendar"></i>
@@ -38,13 +35,38 @@
             </div>
 		  </div>
 		  <div class="p-2 flex-fill bd-highlight list-teetime-time">
-		  	<h1> BA NA HILLS GOLF CLUB 2</h1>
+		  	<div class="panel-input-Range">
+				<input type="range" class="custom-range" id="customRange1">
+				<div class="icon-all-banner" id="icon-faa">
+				  <i class="iconfa-icon fa fa-clock-o"></i>
+				</div>
+			</div>
 		  </div>
 		  <div class="p-2 flex-fill bd-highlight list-teetime-person">
-		  	<h1> BA NA HILLS GOLF CLUB 2</h1>
+	  		<div class="form-group-option">
+		      <select class="form-control" id="sel1" name="sellist1">
+		        <option>1</option>
+		        <option>2</option>
+		        <option>3</option>
+		        <option>4</option>
+		      </select>
+		      <div class="icon-all-banner" id="icon-faa">
+				  <i class=" iconfa-iconfa iconfa-iconfafa fa fa-user"></i>
+				</div>
+		    </div>
 		  </div>
 		  <div class="p-2 flex-fill bd-highlight list-teetime-destination">
-		  	<h1> BA NA HILLS GOLF CLUB 3</h1>
+		  	<div class="form-group-option">
+		      <select class="form-control" id="sel1" name="sellist1">
+		        <option>1</option>
+		        <option>2</option>
+		        <option>3</option>
+		        <option>4</option>
+		      </select>
+		      <div class="icon-all-banner" id="icon-faa">
+				  <i class=" iconfa-iconfa iconfa-iconfafa fa fa-flag"></i>
+				</div>
+		    </div>
 		  </div>
 		</div>
 	</div>
