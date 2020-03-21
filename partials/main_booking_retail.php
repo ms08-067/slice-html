@@ -28,9 +28,13 @@
 		<div class="d-flex bd-highlight">
 		  <div class="p-2 flex-fill bd-highlight list-teetime-date">
 		  	<div class="panel-input-date">
-                   <form>
+                   <!-- <form>
 					  <input type="date" id="birthday" name="birthday" class="iconfa-iconfa fa fa-calendar fa-datepicker">
-					</form>
+					</form> -->
+					<input class="form-control" type="date" value="2011-08-19" id="example-date-input">
+					<div class="icon-all-banner" id="icon-faa">
+					  <i class=" iconfa-iconfa iconfa-iconfafa fa fa-calendar"></i>
+					</div>
             </div>
 		  </div>
 		  <div class="p-2 flex-fill bd-highlight list-teetime-time">

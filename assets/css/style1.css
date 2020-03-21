@@ -649,4 +649,24 @@ input.fa-datepicker{
     color: white;
     background: #94c11f;
 }
+i.fa.iconfa-iconfa.iconfa-iconfafa {
+    position: relative;
+    z-index: 4;
+    color: white;
+    top: -48px;
+    width: 48px;
+    background: #94c11f;
+    float: left;
+    height: 48px;
+    padding: 8px;
+    border-radius: 100px;
+    margin-left: 2px;
+    font-size: 36px;
+}
+input#example-date-input {
+    border: solid 1px #94c11f;
+    border-radius: 30px;
+    width: 100%;
+    padding: 10px 0px 10px 54px;
+}
 /*************  End CSS Booking_retail *********************/
