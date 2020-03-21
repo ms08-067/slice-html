@@ -22,6 +22,7 @@
     	<?php include("partials/footer.php"); ?>
     </div>
 </div><!-- end div.wrapper -->
+
 <script src="./assets/packages/jquery/jquery-3.4.1.min.js"></script>
 <script src="./assets/packages/bootstrap-4.0/js/bootstrap.js"></script>
 
