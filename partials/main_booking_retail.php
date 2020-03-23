@@ -250,7 +250,7 @@
 			</div><!-- d-flex bd-highlight -->
 			<div class="d-flex bd-highlight">
 				  <div class="p-2 flex-fill bd-highlight list-time-width">
-				  	<div class="all-time-list-c">
+				  	<div class="all-time-list-d">
 					  	<span class="time-list-t">7 : 03</span><br><br>
 					  	<span class="b-time-list-b"><b>2.000.000 VND </b></span><br>
 					  	<span class="p-time-list-b">2.500.000 VND</span><br>
@@ -316,106 +316,3 @@
 <div class="partner-booking">
 	<?php include("./partials/partner-booking.php") ?>	
 </div>
-<!-- 	<div class="container">
-
-		<div class="list-time">
-			<h2 class="text-hot"><i class="fa-fa-percent fa fa-percent"></i>  HOT DEAL</h2>
-		</div>
-		<hr class="hr-time">
-		<div class="d-flex bd-highlight">
-		  <div class="p-2 flex-fill bd-highlight list-time-width">
-		  	<div class="all-time-list">
-			  	<div class="time-list-t">
-			  		<p class="p-time-list-t">7 : 03</p>
-			  	</div>
-			  	<div class="time-list-b">
-			  		<p class="p-time-list-b"><b class="b-time-list-b">2.000.000 VND </b><strike class="strike-time-list-b" >2.500.000 VND</strike></p>
-			  		<p class="card-text p-time-list-card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-			  	</div>
-		  	</div>
-		  </div>
-		  <div class="p-2 flex-fill bd-highlight list-time-width">
-		  	<div class="all-time-list">
-			  	<div class="time-list-t">
-			  		<p class="p-time-list-t">7 : 03</p>
-			  	</div>
-			  	<div class="time-list-b">
-			  		<p class="p-time-list-b"><b class="b-time-list-b">2.000.000 VND </b><strike class="strike-time-list-b" >2.500.000 VND</strike></p>
-			  		<p class="card-text p-time-list-card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-			  	</div>
-		  	</div>
-		  </div>
-		  <div class="p-2 flex-fill bd-highlight list-time-width">
-		  	<div class="all-time-list">
-			  	<div class="time-list-t">
-			  		<p class="p-time-list-t">7 : 03</p>
-			  	</div>
-			  	<div class="time-list-b">
-			  		<p class="p-time-list-b"><b class="b-time-list-b">2.000.000 VND </b><strike class="strike-time-list-b" >2.500.000 VND</strike></p>
-			  		<p class="card-text p-time-list-card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-			  	</div>
-		  	</div>
-		  </div>
-		  <div class="p-2 flex-fill bd-highlight list-time-width">
-		  	<div class="all-time-list">
-			  	<div class="time-list-t">
-			  		<p class="p-time-list-t">7 : 03</p>
-			  	</div>
-			  	<div class="time-list-b">
-			  		<p class="p-time-list-b"><b class="b-time-list-b">2.000.000 VND </b><strike class="strike-time-list-b" >2.500.000 VND</strike></p>
-			  		<p class="card-text p-time-list-card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-			  	</div>
-		  	</div>
-		  </div>
-		  <div class="p-2 flex-fill bd-highlight list-time-width">
-		  	<div class="all-time-list">
-			  	<div class="time-list-t">
-			  		<p class="p-time-list-t">7 : 03</p>
-			  	</div>
-			  	<div class="time-list-b">
-			  		<p class="p-time-list-b"><b class="b-time-list-b">2.000.000 VND </b><strike class="strike-time-list-b" >2.500.000 VND</strike></p>
-			  		<p class="card-text p-time-list-card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-			  	</div>
-		  	</div>
-		  </div>
-		  <div class="p-2 flex-fill bd-highlight list-time-width">
-		  	<div class="all-time-list">
-			  	<div class="time-list-t">
-			  		<p class="p-time-list-t">7 : 03</p>
-			  	</div>
-			  	<div class="time-list-b">
-			  		<p class="p-time-list-b"><b class="b-time-list-b">2.000.000 VND </b><strike class="strike-time-list-b" >2.500.000 VND</strike></p>
-			  		<p class="card-text p-time-list-card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-			  	</div>
-		  	</div>
-		  </div>
-		  <div class="p-2 flex-fill bd-highlight list-time-width">
-		  	<div class="all-time-list">
-			  	<div class="time-list-t">
-			  		<p class="p-time-list-t">7 : 03</p>
-			  	</div>
-			  	<div class="time-list-b">
-			  		<p class="p-time-list-b"><b class="b-time-list-b">2.000.000 VND </b><strike class="strike-time-list-b" >2.500.000 VND</strike></p>
-			  		<p class="card-text p-time-list-card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-			  	</div>
-		  	</div>
-		  </div>
-		  <div class="p-2 flex-fill bd-highlight list-time-width">
-		  	<div class="all-time-list">
-			  	<div class="time-list-t">
-			  		<p class="p-time-list-t">7 : 03</p>
-			  	</div>
-			  	<div class="time-list-b">
-			  		<p class="p-time-list-b"><b class="b-time-list-b">2.000.000 VND </b><strike class="strike-time-list-b" >2.500.000 VND</strike></p>
-			  		<p class="card-text p-time-list-card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-			  	</div>
-		  	</div>
-		  </div>
-		</div>
-	</div>
-	<div class="container">
-		<div class="list-time">
-			<h2 class="text-time"><i class="fa fa-map-pin iconfa-iconfa-map-pin"></i>  TEE TIME</h2>
-		</div>
-		<hr class="hr-time-time">
-	</div> -->

@@ -2,6 +2,11 @@
 /* CSS Document */
 /*CSS viết toàn bộ trong file này */
 
+@font-face {
+    font-family: quartz;
+    src: url("../fonts/quartz_regular.ttf");
+}
+
 /********** Start  CSS header **************/
 .header{
     height: 60px;
@@ -619,6 +624,8 @@ button.btn.btn-danger.btn-bill-fourth {
 /*************  End CSS Checkout *********************/
 
 /*************  Start CSS Booking_retail *********************/
+
+
 .card-booking-retail{
     background: #ebebeb;
 }
@@ -737,28 +744,28 @@ hr.hr-time-time {
     margin-top: 40px;
 }
 .all-time-list-a{
-    background: url(../../assets/img/SGolf-booking_retai1.jpg);
+    background: url(../images/SGolf-booking_retai1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     height: 160px;
     padding: 8px 0px 0px 0px;
 }
 .all-time-list-b{
-    background: url(../../assets/img/SGolf-booking_retai2.jpg);
+    background: url(../images/SGolf-booking_retai2.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     height: 160px;
      padding: 8px 0px 0px 0px;
 }
 .all-time-list-c{
-    background: url(../../assets/img/SGolf-booking_retai3.jpg);
+    background: url(../images/SGolf-booking_retai3.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     height: 160px;
      padding: 8px 0px 0px 0px;
 }
 .all-time-list-d{
-    background: url(../../assets/img/SGolf-booking_retai4.jpg);
+    background: url(../images/SGolf-booking_retai4.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     height: 160px;
@@ -767,6 +774,8 @@ hr.hr-time-time {
 span.time-list-t {
     margin-left: 42px;
     color: white;
+    font-family: quartz;
+    font-weight: bold;
 }
 span.b-time-list-b {
     font-size: 14px;
@@ -780,4 +789,6 @@ span.card-text.p-time-list-card-text {
     font-size: 12px;
     margin-left: 56px;
 }
+
+
 /*************  End CSS Booking_retail *********************/
