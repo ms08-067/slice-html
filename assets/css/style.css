@@ -9,7 +9,7 @@
 
 /********** Start  CSS header **************/
 .header{
-	height: 60px;
+	height: 120px;
 	background: #ec6707;
 }
 ul.link-top li {
@@ -24,17 +24,18 @@ ul.link-top li a{
 	text-transform: uppercase;
 }
 .header-top{width: 100%;
-clear: both;
-height: 30px;
+    clear: both;
+    height: 30px;
+    margin-top : 26px;
 }
 .call-top {
 	color: #FFF;
 }
 .header-menu{
-	width: 100%;
-	background: #FFF;
-	height: 60px;
-	position: absolute;
+    width: 100%;
+    background: #FFF;
+    height: 130px;
+    position: absolute;
     z-index: 1;
 }
 .img-logo {
@@ -48,7 +49,38 @@ height: 30px;
 .menu li.active > a, .menu li.nav-item a:hover {
 	color: #94c11f !important;
 }
-
+i.fa.fa-search.iconfaa {
+    height: 130px;
+    width: 130px;
+    text-align: center;
+    padding: 34px 0px 0px 14px;
+    background: #ebebeb;
+    margin-right: -16px;
+    color: #94c11f;
+    font-size: 70px;
+}
+.form-inline.my-2.my-lg-0 {
+    float: right;
+}
+.logo.float-left {
+    margin-top: 24px;
+    margin-left: 50px;
+}
+.menu.float-left {
+    margin-top: 40px;
+}
+img.img-logo.img-fluid {
+    width: 100%;
+    height: 100%;
+}
+.menu ul li a{
+    font-size: 20px;
+    font-family: 'Mukta', sans-serif;
+}
+.menu a.nav-link {
+    font-size: 18px;
+    margin-right: 6px;
+}
 /*************  End CSS Header *********************/
 
 
@@ -628,9 +660,8 @@ button.btn.btn-danger.btn-bill-fourth {
     background: #ebebeb;
 }
 h2.card-title.h-booking-retail {
-    margin-top: 20px;
+    margin-top: 10px;
     margin-left: 20px;
-    margin-bottom: 20px;
 }
 .list-teetime-date{
     width: 20%;
@@ -787,6 +818,9 @@ span.card-text.p-time-list-card-text {
     font-size: 12px;
     margin-left: 56px;
 }
-
+img.img-fluid.img-i-booking-retail {
+    width: 40px;
+    margin-top: 4px;
+}
 
 /*************  End CSS Booking_retail *********************/

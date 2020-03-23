@@ -17,7 +17,7 @@
     	<div class="header-menu">
     		<div class="logo float-left">
     			<a href="./home.php">
-    				<img src="./assets/img/logo-sgolf.png" class="img-logo">
+    				<img src="./assets/img/logo-sgolf.png" class="img-logo img-fluid">
     			</a>
     		</div>
     		<div class="menu float-left">
@@ -49,6 +49,9 @@
 					  </div>
 					</nav>
     		</div>
+    		<div class="form-inline my-2 my-lg-0">
+		        <i class="fa fa-search iconfaa"></i>
+		    </div>
     	</div>
 		
     </div>

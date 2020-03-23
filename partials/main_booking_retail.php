@@ -19,7 +19,14 @@
 			    <span class="sr-only">Next</span>
 			  </a>
 			</div>
-			<h2 class="card-title h-booking-retail">BA NA HILLS GOLF CLUB</h2>
+			<div class="d-flex bd-highlight mb-3">
+			  <div class="p-2 bd-highlight">
+			  	<h2 class="card-title h-booking-retail">BA NA HILLS GOLF CLUB</h2>
+			  </div>
+			  <div class="ml-auto p-2 bd-highlight">
+			  	<img class="img-fluid img-i-booking-retail" src="./assets/img/i_booking_retail.jpg"> 
+			  </div>
+			</div> 
 		</div>
 	</div>
 </div>

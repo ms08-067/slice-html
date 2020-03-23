@@ -789,6 +789,9 @@ span.card-text.p-time-list-card-text {
     font-size: 12px;
     margin-left: 56px;
 }
-
+img.img-fluid.img-i-booking-retail {
+    width: 40px;
+    margin-top: 4px;
+}
 
 /*************  End CSS Booking_retail *********************/
