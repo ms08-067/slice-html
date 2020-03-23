@@ -4,10 +4,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Booking Retail</title>
 <link href="./assets/packages/bootstrap-4.0/css/bootstrap.css" rel="stylesheet"/>
-<link href="./assets/css/style1.css" rel="stylesheet"/>
+<link href="./assets/css/style.css" rel="stylesheet"/>
 
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
- 
 
 </head>
 
