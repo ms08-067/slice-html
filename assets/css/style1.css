@@ -1,0 +1,794 @@
+@charset "utf-8";
+/* CSS Document */
+/*CSS viết toàn bộ trong file này */
+
+@font-face {
+    font-family: quartz;
+    src: url("../fonts/quartz_regular.ttf");
+}
+
+/********** Start  CSS header **************/
+.header{
+    height: 60px;
+    background: #ec6707;
+}
+ul.link-top li {
+    list-style: none;
+    display: inline-block;
+    border-right: solid 2px #FFF;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+ul.link-top li a{
+    color: #FFF;
+    text-transform: uppercase;
+}
+.header-top{width: 100%;
+clear: both;
+height: 30px;
+}
+.call-top {
+    color: #FFF;
+}
+.header-menu{
+    width: 100%;
+    background: #FFF;
+    height: 60px;
+    position: absolute;
+    z-index: 1;
+}
+.img-logo {
+    height: 60px;
+}
+.menu li.nav-item a {
+    color: #636363;
+    text-transform: uppercase;
+
+}
+.menu li.active > a, .menu li.nav-item a:hover {
+    color: #94c11f !important;
+}
+
+/*************  End CSS Header *********************/
+
+
+/*************  Start CSS Home Page *********************/
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+}
+.link-rigister:hover {
+    text-decoration: none;
+}
+.link-rigister {
+    text-transform: uppercase;
+    position: absolute;
+    background: #ec6707;
+    z-index: 2;
+    font-weight: bold;
+    color: #FFF !important;
+    top: 162px;
+    left: 400px;
+    padding: 6px 10px;
+}
+.section-title {
+    width: 100%;
+    height: 80px;
+    padding-top: 20px;
+}
+
+.main-booking .section-title .text-center span, .main-home .section-title .text-center span {
+    border-bottom: solid 3px #ec6707;
+    padding-bottom: 2px;
+}
+.main-booking .section-title h1, .main-home .section-title h1{
+    font-size: 24px;
+}
+
+.list-card .row {
+    margin-bottom: 32px;
+}
+.card-title {
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #092b5c;
+    margin-bottom: 2px;
+    font-weight: 700;
+}
+.card-body .txt-date {
+    color: #959595;
+    font-size: 11px;
+}
+.card-body {
+    padding: 12px 16px 8px !important;
+}
+.card-text{
+    font-size: 12px;
+    margin-bottom: 10px;
+    margin-top: 6px;
+}
+.card-body .share {
+    color: #636363 !important;
+    font-size: 10px;
+}
+.card-body .icon-share {
+    margin-top: -3px;   
+}
+.card-body .read-more:hover, .card-body .share:hover {
+    text-decoration: unset;
+}
+.card-body .read-more {
+    color: #94c11f !important;
+    font-size: 10px;
+}
+.card-body hr{
+    margin-top: 2px;
+    margin-bottom: 6px;
+    border-top: 1px solid #dbdbbb;
+}
+.partner-home {
+    height: 400px;
+    width: 100%;
+    background: #94c11f;
+    padding-top: 24px;
+}
+.partner-home img {
+    height: 110px;
+}
+.align-left {text-align: left;}
+.center {text-align: center;}
+.align-right {text-align: right;}
+.about-us {
+    height: 408px;width: 100%;
+    background: url("../images/bg-about-us.jpg");
+    background-size: 100%;
+}
+.content-about-us {
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.content-about-us {
+    text-align: justify;
+}
+.content-about-us p {
+    font-size: 12px;
+}
+.title-statistic {
+    width: 210px;
+    display: inline-block;
+    color: #94c11f;
+    font-size: 24px;
+    font-style: italic;
+}
+.txt-statistic {
+    font-size: 20px;
+}
+/*************  End CSS Home Page *********************/
+
+/*************  Start CSS Footer *********************/
+.footer {
+    height: 162px;
+    width: 100%;
+    background: #FFF;
+}
+.footer-l, .footer-r {
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.footer-l {
+    background: url("../images/bg-footer-left.jpg");
+    background-size: 100%;
+}
+.footer-r-top-l, .footer-r-top-r {
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.footer-info {
+    font-size: 12px;
+    border-left: solid 2px #94c11f;
+    padding-left: 8px;
+}
+.footer-img-logo {
+    width: 172px;
+}
+.btn-submit {
+    background: #94c11f;
+    color: #FFF;
+    text-transform: uppercase;
+    margin-top: -6px;
+}
+.footer-r-top {
+    width: 100%;
+    height: 86px;
+    clear: both;
+    overflow: hidden;
+    padding-top: 10px;
+    margin-bottom: 8px;
+}
+.footer-r-bottom {
+    width: 100%;
+    height: 44px;
+}
+.row-subscribe {
+    display: inline-block;
+}
+#subcribe {
+    width: 348px;
+}
+.lbl-subbscribe {
+    width: 90px;
+}
+.footer-r-bottom .box-subscribe {
+    padding-left: 60px;
+    padding-top: 4px;
+}
+.footer-l .row-footer-left {
+    position: absolute;
+}
+
+.footer-l .footer-left-left, .footer-l .footer-left-right{
+    float: left;
+}
+
+.footer-l .txt-l-footer {
+    color: #FFF;
+    position: absolute;
+    bottom: -162px;
+    width: 263px;
+    left: 88px;
+}
+
+.footer-left-right .icon-footer {
+    display: inline-block;
+    width: 40px;
+    margin-right: 14px;
+}
+
+.footer-left-right {
+    position: absolute;
+    display: inline-flex;
+    left: 396px;
+    top: 110px;
+}
+
+.footer-l .row-icon-download {
+    position: absolute;
+    display: inline-flex;
+    left: 464px;
+}
+.footer-l .row-icon-download .icon-download-app {
+    width: 40px;
+    margin-top: 52px;
+    margin-right: 12px;
+}
+/*************  End CSS Footer *********************/
+
+/*************  Start CSS Booking *********************/
+.custom-select {
+    position: relative;
+    display: inline-block;
+}
+.custom-select-trigger {
+    position: relative;
+    display: block;
+    width: 220px;
+    padding: -3px 0px 0px 0px;
+    font-size: 20px;
+    font-weight: 300;
+    color:black;
+    line-height: 50px;
+    background: white;
+    margin-left: -28px;
+    margin-top: -8px;
+    border-radius: 30px;
+}
+.custom-select-trigger:after {
+    position: absolute;
+    display: block;
+    content: '';
+    width: 10px; height: 10px;
+    top: 50%; right: 25px;
+    margin-top: -3px;
+    border-bottom: 1px solid #94c11f;
+    border-right: 1px solid #94c11f;
+    transform: rotate(45deg) translateY(-50%);
+    transition: all .4s ease-in-out;
+    transform-origin: 50% 0;
+}
+.custom-select.opened .custom-select-trigger:after {
+    margin-top: 3px;
+    transform: rotate(-135deg) translateY(-50%);
+}
+.custom-options {
+    width: 220px;
+    position: absolute;
+    display: block;
+    top: 100%; left: 0; right: 0;
+    min-width: 100%;
+    margin: 15px 0;
+    border: 1px solid #b5b5b5;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-shadow: 0 2px 1px rgba(0,0,0,.07);
+    background: #fff;
+    transition: all .4s ease-in-out;
+
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transform: translateY(-15px);
+}
+.custom-select.opened .custom-options {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: all;
+    transform: translateY(0);
+}
+.custom-options:before {
+      position: absolute;
+      display: block;
+      content: '';
+      bottom: 100%; right: 25px;
+      width: 7px; height: 7px;
+      margin-bottom: -4px;
+      border-top: 1px solid #b5b5b5;
+      border-left: 1px solid #b5b5b5;
+      background: #fff;
+      transform: rotate(45deg);
+      transition: all .4s ease-in-out;
+}
+.option-hover:before {
+    background: #f9f9f9;
+}
+.custom-option {
+      position: relative;
+      display: block;
+      padding: 0 22px;
+      border-bottom: 1px solid #b5b5b5;
+      font-size: 18px;
+      font-weight: 600;
+      color: #b5b5b5;
+      line-height: 47px;
+      cursor: pointer;
+      transition: all .4s ease-in-out;
+}
+.custom-option:first-of-type {
+    border-radius: 4px 4px 0 0;
+}
+.custom-option:last-of-type {
+      border-bottom: 0;
+      border-radius: 0 0 4px 4px;
+}
+.custom-option:hover,
+.custom-option.selection {
+  background: #94c11f;
+  color: white;      
+}
+
+.d-flex.justify-content-between.optionselect {
+    background: #1010106b;
+    height: 160px;
+    margin-bottom: -40px;
+}
+.custom-select-wrapper {
+    width: 100px;
+}
+.centera {
+    padding: 60px 0px 0px 20px;
+    margin: 0px 40px 0px 30px;
+}
+i.fa.fa-search.iconfab {
+    text-align: center;
+    padding: 16px;
+    margin-top: -4px;
+    background: #94c11f;
+    color: white;
+    font-size: 32px;
+    border-radius: 100px;
+}
+i.fa.iconfa-iconfa {
+    position: relative;
+    z-index: 4;
+    color: white;
+    top: -38px;
+    width: 48px;
+    background: #94c11f;
+    float: left;
+    height: 48px;
+    padding: 8px;
+    border-radius: 100px;
+    margin-left: -14px;
+    font-size: 36px;
+}
+.d-flex.bd-highlight.subwrap {
+    border: solid 1px #ddd;
+    border-radius: 30px;
+}
+.p-2.flex-shrink-1.bd-highlight.btnwrap {
+    background: #94c11f;
+    font-size: 9px;
+    border-radius: 30px 0px 0px 30px;
+    color: white;
+}
+b.heading_intro {
+    font-size: 9px;
+}
+strike {
+    font-size: 9px;
+}
+.d-flex.bd-highlight.subwrap {
+    height: 30px;
+}
+.p-2.w-100.bd-highlight.submarine {
+    margin-top: -8px;
+}
+div#list-stadium-between {
+    background: #f6f4f4;
+    margin-top: 40px;
+}
+a.btn.btn-outline-success {
+    border-radius: 30px;
+    width: 100%;
+    padding: 0px;
+    background: white;
+    color: #94c11f;
+}
+a.btn.btn-outline-success:hover {
+    background: #94c11f;
+    color: white;
+}
+.card:hover{
+    border:solid 1px #94c11f;
+}
+.card-deck {
+    padding-bottom: 40px;
+}
+div#list-stadium-bottom {
+    background: white;
+    margin-top: 40px;
+}
+.hrhrhotdeal{
+    border-top: 4px solid #f58220;
+    width: 100px;
+    margin-top: 10px;
+}
+.background-price{
+    background: #f58220;
+}
+.color_intro{
+    color: white;
+}
+h6.card-title {
+    font-size: 12px;
+    font-weight: bold;
+}
+.p-2.flex-shrink-1.bd-highlight.bd-highlight-price {
+    border: solid 1px #94c11f;
+    width: 302px;
+    border-radius: 30px;
+    height: 26px;
+}
+b.heading_intro.intro_font {
+    font-size: 12px;
+}
+i.fa.fa-dollar.fa-dollar-intro {
+    padding: 3px 0px 0px 7px;
+    margin-top: -4px;
+    background: #f58220;
+    color: white;
+    font-size: 14px;
+    border-radius: 100px;
+    width: 22px;
+    height: 22px;
+    margin-right: 4px;
+    margin-left: -6px;
+}
+a.btn.btn-outline-success.intro-dk {
+    font-size: 14px;
+    background: #94c11f;
+    color: white;
+    border: solid 1px #94c11f;
+}
+a.btn.btn-outline-success.intro-dk:hover{
+    background: white;
+    color: #94c11f;
+}
+.partner-booking {
+    height: 250px;
+    width: 100%;
+    background: #94c11f;
+}
+.partner-booking .text-center {
+    text-transform: uppercase;
+    color: #FFF;
+    font-size: 24px;
+}
+.partner-booking .text-center span {
+    border-bottom: solid 3px #fff !important;
+}
+/*************  End CSS Booking *********************/
+
+/*************  Start CSS Dang_nhap, Dang Ky Page *********************/
+.main-login, .main-register {
+    height: 480px;
+    width: 100%;
+    background: url("../images/bg-main-login.jpg");
+    background-size: 100%;
+    background-position: 0px -122px;    
+}
+
+.main-login .box-login, .main-register .box-register {
+    position: absolute;
+    left: 150px;
+    width: 500px;
+    height: 310px;
+    background: #fff;
+    top: 140px;
+    border-radius: 40px;
+    /*padding: 20px 30px;*/
+
+}
+.main-register .box-register {
+    top: 104px !important
+}
+.main-register .box-register {
+    height: 408px !important;
+}
+.box-login h3, .box-register h3 {
+    background: #8DBF41;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+.box-login .frm-login, .box-register .frm-register{
+    margin: 30px 34px;
+}
+.box-login .frm-login .form-group, .box-register .frm-register .form-group {
+    margin-bottom: 22px;
+}
+.btn-theme1 {
+    background: #ec6707;
+    color: #fff;
+    font-weight: bold;
+}
+/*************  End CSS Dang_nhap, Dang_Ky Page  *********************/
+
+/*************  Start CSS Checkout *********************/
+.main-checkout{
+    background: #f8f8f8;
+}
+.online-payment {
+    margin-top: 80px;
+    background: #8dbf41;
+    color: white;
+    padding: 12px 0px 6px 0px;
+}
+.img-online-payment{
+    width: 20px;
+    margin-right: 8px;
+    margin-top: -6px;
+}
+.text-p{
+    float: right;
+    margin-top: -30px;
+    margin-right: 20px;
+}
+button.btn.btn-danger.btn-bill {
+    width: 90%;
+    border-radius: 20px;
+    background: #94c11f;
+    border:solid 1px #94c11f;
+}
+.in-main-checkout{
+    background: white;
+}
+.h-img-checkout{
+    text-align: center;
+}
+.col-tr-bill-first{
+    width: 18%;
+    text-align: center;
+}
+.col-tr-bill-second{
+    width: 24%;
+    text-align: center;
+}
+.col-tr-bill-third{
+    width: 24%;
+    text-align: center;
+}
+.col-tr-bill-fourth{
+    width: 34%;
+    text-align: center;
+}
+button.btn.btn-danger.btn-bill-fourth {
+    width: 90%;
+    border-radius: 20px;
+    background: #ec6707;
+    border:solid 1px #94c11f;
+}
+.tr-bill{
+    text-align: center;
+}
+.th-bill{
+    color: #94c11f;
+}
+.come-back-pay{
+    background: #fefefe;
+}
+/*************  End CSS Checkout *********************/
+
+/*************  Start CSS Booking_retail *********************/
+
+
+.card-booking-retail{
+    background: #ebebeb;
+}
+h2.card-title.h-booking-retail {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.list-teetime-date{
+    width: 20%;
+}
+.list-teetime-time{
+    width: 48%;
+}
+.list-teetime-person{
+    width: 16%;
+}
+.list-teetime-destination{
+    width: 16%;
+}
+input.fa-datepicker{
+    border: solid 1px #94c11f;
+    width: 100%;
+    height: 40px;
+    border-radius: 20px;
+    padding: 6px 0px 4px 40px;
+}
+.fa-datepicker{
+    color: white;
+    background: #94c11f;
+}
+i.fa.iconfa-iconfa.iconfa-iconfafa {
+    position: relative;
+    z-index: 4;
+    color: white;
+    top: -40px;
+    width: 40px;
+    background: #94c11f;
+    float: left;
+    height: 40px;
+    padding: 6px 0px 0px 8px;
+    border-radius: 100px;
+    margin-left: 2px;
+    font-size: 26px;
+}
+input#example-date-input {
+    border: solid 1px #94c11f;
+    border-radius: 30px;
+    width: 100%;
+    padding: 12px 0px 2px 54px;
+}
+.panel-input-Range{
+    border: solid 1px #94c11f;
+    border-radius: 30px;
+    width: 100%;
+    height: 40px;
+    padding: 10px 0px 10px 54px;
+}
+i.iconfa-icon.fa.fa-clock-o {
+    position: relative;
+    z-index: 4;
+    color: white;
+    top: -30px;
+    width: 40px;
+    background: #94c11f;
+    float: left;
+    height: 40px;
+    padding: 0px 0px 0px 4px;
+    border-radius: 100px;
+    margin-left: -54px;
+    font-size: 38px;
+}
+input#customRange1 {
+    width: 96%;
+}
+.form-group-option select#sel1 {
+   border: solid 1px #94c11f;
+    border-radius: 30px;
+    width: 100%;
+    height: 40px;
+    padding: 10px 0px 10px 54px;
+}
+.list-teetime {
+    margin-top: 20px;
+}
+h2.text-hot {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #ec6707;
+    margin-bottom: 2px;
+    font-weight: 700;
+}
+hr.hr-time {
+    border-top: 1px solid #f58220;
+    margin-top: 10px;
+}
+.list-time-width{
+    width: 12.5%;
+}
+img.img-fluid.img-web-booking-retail-b1 {
+    width: 24px;
+    margin-top: -2px;
+}
+h2.text-time {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #94c11f;
+    margin-bottom: 2px;
+    font-weight: 700;
+}
+hr.hr-time-time {
+    border-top: 1px solid #94c11f;
+    margin-top: 10px;
+}
+.list-time {
+    margin-top: 40px;
+}
+.all-time-list-a{
+    background: url(../images/SGolf-booking_retai1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 160px;
+    padding: 8px 0px 0px 0px;
+}
+.all-time-list-b{
+    background: url(../images/SGolf-booking_retai2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 160px;
+     padding: 8px 0px 0px 0px;
+}
+.all-time-list-c{
+    background: url(../images/SGolf-booking_retai3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 160px;
+     padding: 8px 0px 0px 0px;
+}
+.all-time-list-d{
+    background: url(../images/SGolf-booking_retai4.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 160px;
+     padding: 8px 0px 0px 0px;
+}
+span.time-list-t {
+    margin-left: 42px;
+    color: white;
+    font-family: quartz;
+    font-weight: bold;
+}
+span.b-time-list-b {
+    font-size: 14px;
+    margin-left: 12px;
+}
+span.p-time-list-b {
+    font-size: 12px;
+    margin-left: 20px;
+}
+span.card-text.p-time-list-card-text {
+    font-size: 12px;
+    margin-left: 56px;
+}
+
+
+/*************  End CSS Booking_retail *********************/
