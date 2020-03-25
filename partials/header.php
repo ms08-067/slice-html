@@ -2,16 +2,12 @@
 <div class="row">
     <div class="col col-lg-12">
     	<div class="header-top">
-    		<a class="call-top float-right" href="tel:0788 699 599"><img src="./assets/img/icon-call.jpg">0788 699 599</a>
+    		<a class="call-top float-right" href="tel:0788 699 599"><img src="./assets/img/icon-call.jpg" class="number">0788 699 599</a>
 
-    		<ul class="link-top float-right">
-    			<li><a href="./dang_nhap.php">Log in</a></li>
-    			<li><a href="./dang_ky.php">Register</a></li>
-    			<li><a href="javascript:void(0)">English</a>
-    				<!-- <ul>
-    					<li><a>Việt Nam</a></li>
-    				</ul> -->
-    			</li>
+    		<ul class="link-top float-right header-register-login">
+    			<li><a href="./dang_nhap.php" class="log-in-register">Log in</a></li>
+    			<li><a href="./dang_ky.php" class="log-in-register">Register</a></li>
+    			<li><a href="javascript:void(0)">English</a></li>
     		</ul>
     	</div>
     	<div class="header-menu">
