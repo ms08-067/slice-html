@@ -425,17 +425,9 @@ ul.link-top.float-right.header-register-login {
   color: white;      
 }
 
-.d-flex.justify-content-between.optionselect {
-    background: #1010106b;
-    height: 160px;
-    margin-bottom: -40px;
-}
+
 .custom-select-wrapper {
     width: 100px;
-}
-.centera {
-    padding: 60px 0px 0px 20px;
-    margin: 0px 40px 0px 30px;
 }
 i.fa.fa-search.iconfab {
     text-align: center;
@@ -565,6 +557,21 @@ a.btn.btn-outline-success.intro-dk:hover{
 }
 .partner-booking .text-center span {
     border-bottom: solid 3px #fff !important;
+}
+.bg-golf{
+    width: 30%;
+}
+.bg-golf-seach{
+    width: 10%;
+}
+.optionselect {
+    background: #1010106b;
+    height: 160px;
+    margin-bottom: -40px;
+}
+select.form-control.form-select-golf {
+    border: solid 1px red;
+    border-radius: 30px;
 }
 /*************  End CSS Booking *********************/
 
