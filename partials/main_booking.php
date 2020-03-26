@@ -9,47 +9,49 @@
 			        	<div class="container-fluid">
 			        		<div class="row">
 					        	<div class="col col-lg-12">
-					        		<div class="d-flex bd-highlight optionselect">
-									  <div class="p-2 flex-fill bd-highlight bg-golf">
-									  	<div class="centera">
-										  	<select class="form-control" id="form-control-select">
-										      <option>Hà Nội</option>
-										      <option>Hồ Chí Minh</option>
-										      <option>Hà Tĩnh</option>
-										    </select>
-										    <div class="icon-all-banner" id="icon-faa">
-											  <i class="fa fa-map-marker iconfa-iconfa"></i>
-											</div>
-										</div>
-									  </div>
-									  <div class="p-2 flex-fill bd-highlight bg-golf">
-									  	<div class="centera">
-										  	<select class="form-control" id="form-control-select">
-										      <option>Golf course</option>
-										      <option>Golf course</option>
-										      <option>Golf course</option>
-										    </select>
-										   <div class="icon-all-banner" id="icon-faa">
-											  <i class="fa fa-map-pin iconfa-iconfa"></i>
-											</div>
-										</div>
-									  </div>
-									  <div class="p-2 flex-fill bd-highlight bg-golf">
-									  	<div class="centera">
-											<div class="panel-input-date">
-												<input class="form-control" type="date" value="2020-08-19" id="golf-date-input">
-												<div class="icon-all-banner" id="icon-faa">
-												  <i class=" icon-date-golf fa fa-calendar"></i>
+					        		<form>
+						        		<div class="d-flex bd-highlight optionselect">
+										  <div class="p-2 flex-fill bd-highlight bg-golf">
+										  	<div class="centera">
+											  	<select class="form-control" id="form-control-select">
+											      <option>Hà Nội</option>
+											      <option>Hồ Chí Minh</option>
+											      <option>Hà Tĩnh</option>
+											    </select>
+											    <div class="icon-all-banner" id="icon-faa">
+												  <i class="fa fa-map-marker iconfa-iconfa"></i>
 												</div>
-								            </div>
+											</div>
+										  </div>
+										  <div class="p-2 flex-fill bd-highlight bg-golf">
+										  	<div class="centera">
+											  	<select class="form-control" id="form-control-select">
+											      <option>Golf course</option>
+											      <option>Golf course</option>
+											      <option>Golf course</option>
+											    </select>
+											   <div class="icon-all-banner" id="icon-faa">
+												  <i class="fa fa-map-pin iconfa-iconfa"></i>
+												</div>
+											</div>
+										  </div>
+										  <div class="p-2 flex-fill bd-highlight bg-golf">
+										  	<div class="centera">
+												<div class="panel-input-date">
+													<input class="form-control" type="date" value="2020-08-19" id="golf-date-input">
+													<div class="icon-all-banner" id="icon-faa">
+													  <i class=" icon-date-golf fa fa-calendar"></i>
+													</div>
+									            </div>
+											</div>
+										  </div>
+										  <div class="p-2 flex-fill bd-highlight bg-golf-seach">
+										  	<div class="centera" id="icon-fa">
+											  <i class="fa fa-search iconfab"></i>
+											</div>
+										  </div>
 										</div>
-									  </div>
-									  <div class="p-2 flex-fill bd-highlight bg-golf-seach">
-									  	<div class="centera" id="icon-fa">
-										  <i class="fa fa-search iconfab"></i>
-										</div>
-									  </div>
-									</div>
+									</form>
 					        	</div><!-- container -->
 			        		</div>
 			        	</div><!-- container-fluid -->
@@ -61,47 +63,49 @@
 			        	<div class="container-fluid">
 			        		<div class="row">
 					        	<div class="col col-lg-12">
-					        		<div class="d-flex bd-highlight optionselect">
-									  <div class="p-2 flex-fill bd-highlight bg-golf">
-									  	<div class="centera">
-										  	<select class="form-control" id="form-control-select">
-										      <option>Hà Nội</option>
-										      <option>Hồ Chí Minh</option>
-										      <option>Hà Tĩnh</option>
-										    </select>
-										    <div class="icon-all-banner" id="icon-faa">
-											  <i class="fa fa-map-marker iconfa-iconfa"></i>
-											</div>
-										</div>
-									  </div>
-									  <div class="p-2 flex-fill bd-highlight bg-golf">
-									  	<div class="centera">
-										  	<select class="form-control" id="form-control-select">
-										      <option>Golf course</option>
-										      <option>Golf course</option>
-										      <option>Golf course</option>
-										    </select>
-										   <div class="icon-all-banner" id="icon-faa">
-											  <i class="fa fa-map-pin iconfa-iconfa"></i>
-											</div>
-										</div>
-									  </div>
-									  <div class="p-2 flex-fill bd-highlight bg-golf">
-									  	<div class="centera">
-											<div class="panel-input-date">
-												<input class="form-control" type="date" value="2020-08-19" id="golf-date-input">
-												<div class="icon-all-banner" id="icon-faa">
-												  <i class=" icon-date-golf fa fa-calendar"></i>
+					        		<form>
+						        		<div class="d-flex bd-highlight optionselect">
+										  <div class="p-2 flex-fill bd-highlight bg-golf">
+										  	<div class="centera">
+											  	<select class="form-control" id="form-control-select">
+											      <option>Hà Nội</option>
+											      <option>Hồ Chí Minh</option>
+											      <option>Hà Tĩnh</option>
+											    </select>
+											    <div class="icon-all-banner" id="icon-faa">
+												  <i class="fa fa-map-marker iconfa-iconfa"></i>
 												</div>
-								            </div>
+											</div>
+										  </div>
+										  <div class="p-2 flex-fill bd-highlight bg-golf">
+										  	<div class="centera">
+											  	<select class="form-control" id="form-control-select">
+											      <option>Golf course</option>
+											      <option>Golf course</option>
+											      <option>Golf course</option>
+											    </select>
+											   <div class="icon-all-banner" id="icon-faa">
+												  <i class="fa fa-map-pin iconfa-iconfa"></i>
+												</div>
+											</div>
+										  </div>
+										  <div class="p-2 flex-fill bd-highlight bg-golf">
+										  	<div class="centera">
+												<div class="panel-input-date">
+													<input class="form-control" type="date" value="2020-08-19" id="golf-date-input">
+													<div class="icon-all-banner" id="icon-faa">
+													  <i class=" icon-date-golf fa fa-calendar"></i>
+													</div>
+									            </div>
+											</div>
+										  </div>
+										  <div class="p-2 flex-fill bd-highlight bg-golf-seach">
+										  	<div class="centera" id="icon-fa">
+											  <i class="fa fa-search iconfab"></i>
+											</div>
+										  </div>
 										</div>
-									  </div>
-									  <div class="p-2 flex-fill bd-highlight bg-golf-seach">
-									  	<div class="centera" id="icon-fa">
-										  <i class="fa fa-search iconfab"></i>
-										</div>
-									  </div>
-									</div>
+									</form>
 					        	</div>
 			        		</div>
 			        	</div><!-- container-fluid -->
