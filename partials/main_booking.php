@@ -137,7 +137,7 @@
 				</div>
 
 				<div class="col-sm-12">
-					<div class="card-deck">
+					<div class="card-deck list-card">
 						  <div class="card">
 						    <img class="card-img-top" src="./assets/img/5.jpg" alt="Card image cap">
 						    <div class="card-body">
@@ -151,7 +151,7 @@
 									    </p>
 								   </div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap" >
 								  <div class="p-2 flex-shrink-1 bd-highlight btnwrap"><p>Weekdays:</p></div>
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
@@ -166,7 +166,7 @@
 								  <div class="p-2 flex-shrink-1 bd-highlight btnwrap"><p>Weekdays:</p></div>
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <div class="p-2 flex-shrink-1 bd-highlight btnwrap"><p>Weekdays:</p></div>
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
@@ -181,7 +181,7 @@
 								  <div class="p-2 flex-shrink-1 bd-highlight btnwrap"><p>Weekdays:</p></div>
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <div class="p-2 flex-shrink-1 bd-highlight btnwrap"><p>Weekdays:</p></div>
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
@@ -196,7 +196,7 @@
 								  <div class="p-2 flex-shrink-1 bd-highlight btnwrap"><p>Weekdays:</p></div>
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <div class="p-2 flex-shrink-1 bd-highlight btnwrap"><p>Weekdays:</p></div>
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
@@ -227,7 +227,7 @@
 						      <div class="d-flex bd-highlight subwrap background-price">
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro color_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <a type="button" class="btn btn-outline-success">Book tee times</a>
 							  </div>
 						    </div>
@@ -240,7 +240,7 @@
 						      <div class="d-flex bd-highlight subwrap background-price">
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro color_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <a type="button" class="btn btn-outline-success">Book tee times</a>
 							  </div>
 						    </div>
@@ -253,7 +253,7 @@
 						      <div class="d-flex bd-highlight subwrap background-price">
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro color_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <a type="button" class="btn btn-outline-success">Book tee times</a>
 							  </div>
 						    </div>
@@ -266,7 +266,7 @@
 						      <div class="d-flex bd-highlight subwrap background-price">
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro color_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <a type="button" class="btn btn-outline-success">Book tee times</a>
 							  </div>
 						    </div>
@@ -279,7 +279,7 @@
 						      <div class="d-flex bd-highlight subwrap background-price">
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro color_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap" >
 								  <a type="button" class="btn btn-outline-success">Book tee times</a>
 							  </div>
 						    </div>
@@ -298,7 +298,7 @@
 						      <div class="d-flex bd-highlight subwrap background-price">
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro color_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <a type="button" class="btn btn-outline-success">Book tee times</a>
 							  </div>
 						    </div>
@@ -311,7 +311,7 @@
 						      <div class="d-flex bd-highlight subwrap background-price">
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro color_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <a type="button" class="btn btn-outline-success">Book tee times</a>
 							  </div>
 						    </div>
@@ -324,7 +324,7 @@
 						      <div class="d-flex bd-highlight subwrap background-price">
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro color_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <a type="button" class="btn btn-outline-success">Book tee times</a>
 							  </div>
 						    </div>
@@ -337,7 +337,7 @@
 						      <div class="d-flex bd-highlight subwrap background-price">
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro color_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <a type="button" class="btn btn-outline-success">Book tee times</a>
 							  </div>
 						    </div>
@@ -350,7 +350,7 @@
 						      <div class="d-flex bd-highlight subwrap background-price">
 								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro color_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
 							  </div>
-							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
+							  <div class="d-flex bd-highlight subwrap">
 								  <a type="button" class="btn btn-outline-success">Book tee times</a>
 							  </div>
 						    </div>

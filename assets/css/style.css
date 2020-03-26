@@ -6,6 +6,10 @@
     font-family: quartz;
     src: url("../fonts/quartz_regular.ttf");
 }
+/*@font-face {
+    font-family: UTMNeoSansIntel;
+    src: url("../fonts/UTMNeoSansIntel_Italic.ttf");
+}*/
 
 /********** Start  CSS header **************/
 .header{
@@ -131,15 +135,18 @@ ul.link-top.float-right.header-register-login {
 .section-title {
 	width: 100%;
 	height: 80px;
-	padding-top: 20px;
+	padding-top: 28px;
 }
 
 .main-booking .section-title .text-center span, .main-home .section-title .text-center span {
 	border-bottom: solid 3px #ec6707;
-	padding-bottom: 2px;
+	padding-bottom: 10px;
 }
 .main-booking .section-title h1, .main-home .section-title h1{
-	font-size: 24px;
+	font-size: 20px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color: #363636;
 }
 
 .list-card .row {
@@ -163,6 +170,7 @@ ul.link-top.float-right.header-register-login {
 	font-size: 12px;
 	margin-bottom: 10px;
 	margin-top: 6px;
+    margin-left: 10px;
 }
 .card-body .share {
 	color: #636363 !important;
@@ -461,21 +469,26 @@ i.fa.iconfa-iconfa {
 }
 .p-2.flex-shrink-1.bd-highlight.btnwrap {
     background: #94c11f;
-    font-size: 9px;
-    border-radius: 30px 0px 0px 30px;
+    font-size: 10px;
+    border-radius: 30px 0px 0px 29px;
     color: white;
+
+}
+.btnwrap p{
+    margin-top: -4px;
 }
 b.heading_intro {
-    font-size: 9px;
+    font-size: 10px;
 }
 strike {
     font-size: 9px;
 }
 .d-flex.bd-highlight.subwrap {
-    height: 30px;
+    height: 24px;
+    margin-top: 10px;
 }
 .p-2.w-100.bd-highlight.submarine {
-    margin-top: 0px;
+    margin-top: -4px;
 }
 div#list-stadium-between {
     background: #f6f4f4;
@@ -495,8 +508,9 @@ a.btn.btn-outline-success:hover {
 .card:hover{
     border:solid 1px #94c11f;
 }
-.card-deck {
+.list-card {
     padding-bottom: 40px;
+    margin-top: 14px;
 }
 div#list-stadium-bottom {
     background: white;
@@ -514,8 +528,10 @@ div#list-stadium-bottom {
     color: white;
 }
 h6.card-title {
-    font-size: 12px;
+    font-size: 10px;
     font-weight: bold;
+    margin-top: 6px;
+    margin-left: 10px;
 }
 .p-2.flex-shrink-1.bd-highlight.bd-highlight-price {
     border: solid 1px #94c11f;
