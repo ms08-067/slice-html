@@ -34,14 +34,6 @@
 							  </div>
 							  <div class="p-2 flex-fill bd-highlight bg-golf">
 							  	<div class="centera">
-								  	<!-- <select class="form-control" id="form-control-select">
-								      <option>Hà Nội</option>
-								      <option>Hồ Chí Minh</option>
-								      <option>Hà Tĩnh</option>
-								    </select>
-								    <div class="icon-all-banner" id="icon-faa">
-									  <i class="fa fa-map-marker iconfa-iconfa"></i>
-									</div> -->
 									<div class="panel-input-date">
 										<input class="form-control" type="date" value="2011-08-19" id="golf-date-input">
 										<div class="icon-all-banner" id="icon-faa">
@@ -56,86 +48,57 @@
 								</div>
 							  </div>
 							</div>
-			        		<!-- <div class="d-flex justify-content-between optionselect">
-			        			<div class="centera">
-								  	<select class="form-control form-select-golf">
-								      <option>Hà Nội</option>
-								      <option>Hồ Chí Minh</option>
-								      <option>Hà Tĩnh</option>
-								    </select>
-								    <div class="icon-all-banner" id="icon-faa">
-									  <i class="fa fa-map-marker iconfa-iconfa"></i>
-									</div>
-								</div>
-								<div class="centera">
-									<select class="form-control form-select-golf">
-								      <option>Hà Nội</option>
-								      <option>Hồ Chí Minh</option>
-								      <option>Hà Tĩnh</option>
-								    </select>
-								  <div class="icon-all-banner" id="icon-faa">
-									  <i class="fa fa-map-pin iconfa-iconfa"></i>
-									</div>
-								</div>
-								<div class="centera" >
-								  <select class="form-control form-select-golf">
-								      <option>Hà Nội</option>
-								      <option>Hồ Chí Minh</option>
-								      <option>Hà Tĩnh</option>
-								    </select>
-								  <div class="icon-all-banner" id="icon-faa">
-									  <i class=" iconfa-iconfa fa fa-calendar"></i>
-									</div>
-								</div>
-								<div class="centera" id="icon-fa">
-								  <i class="fa fa-search iconfab"></i>
-								</div>
-			        		</div> -->
 			        	</div><!-- container -->
 			        </div><!-- carousel-caption -->
 			      </div>
-			      <!-- <div class="carousel-item">
+			      <div class="carousel-item">
 			        <img class="d-block w-100" src="./assets/img/slider/booking-slider-1.png">
 			        <div class="carousel-caption">
 			        	<div class="container">
-			        		<div class="d-flex justify-content-between optionselect">
-			        			<div class="centera">
-								    <select name="sources" id="sources" class="custom-select sources " placeholder="City">
-									    <option value="profile">Profile</option>
-									    <option value="word">Word</option>
-									    <option value="hashtag">Hashtag</option>
-								  	</select>
+			        		<div class="d-flex bd-highlight optionselect">
+							  <div class="p-2 flex-fill bd-highlight bg-golf">
+							  	<div class="centera">
+								  	<select class="form-control" id="form-control-select">
+								      <option>Hà Nội</option>
+								      <option>Hồ Chí Minh</option>
+								      <option>Hà Tĩnh</option>
+								    </select>
 								    <div class="icon-all-banner" id="icon-faa">
 									  <i class="fa fa-map-marker iconfa-iconfa"></i>
 									</div>
 								</div>
-								<div class="centera">
-								  <select name="sources" id="sources" class="custom-select sources" placeholder="Golf course">
-								    <option value="profile">Profile</option>
-								    <option value="word">Word</option>
-								    <option value="hashtag">Hashtag</option>
-								  </select>
-								  <div class="icon-all-banner" id="icon-faa">
+							  </div>
+							  <div class="p-2 flex-fill bd-highlight bg-golf">
+							  	<div class="centera">
+								  	<select class="form-control" id="form-control-select">
+								      <option>Golf course</option>
+								      <option>Golf course</option>
+								      <option>Golf course</option>
+								    </select>
+								   <div class="icon-all-banner" id="icon-faa">
 									  <i class="fa fa-map-pin iconfa-iconfa"></i>
 									</div>
 								</div>
-								<div class="centera" >
-								  <select name="sources" id="sources" class="custom-select sources" placeholder="Date">
-								    <option value="profile">Profile</option>
-								    <option value="word">Word</option>
-								    <option value="hashtag">Hashtag</option>
-								  </select>
-								  <div class="icon-all-banner" id="icon-faa">
-									  <i class=" iconfa-iconfa fa fa-calendar"></i>
-									</div>
+							  </div>
+							  <div class="p-2 flex-fill bd-highlight bg-golf">
+							  	<div class="centera">
+									<div class="panel-input-date">
+										<input class="form-control" type="date" value="2011-08-19" id="golf-date-input">
+										<div class="icon-all-banner" id="icon-faa">
+										  <i class=" icon-date-golf fa fa-calendar"></i>
+										</div>
+						            </div>
 								</div>
-								<div class="centera" id="icon-fa">
+							  </div>
+							  <div class="p-2 flex-fill bd-highlight bg-golf-seach">
+							  	<div class="centera" id="icon-fa">
 								  <i class="fa fa-search iconfab"></i>
 								</div>
-			        		</div>
-			        	</div>
+							  </div>
+							</div>
+			        	</div><!-- container -->
 			        </div>
-			      </div> -->
+			      </div>
 			    </div>
 			    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
 			      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
