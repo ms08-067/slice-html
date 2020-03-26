@@ -35,7 +35,7 @@
 							  <div class="p-2 flex-fill bd-highlight bg-golf">
 							  	<div class="centera">
 									<div class="panel-input-date">
-										<input class="form-control" type="date" value="2011-08-19" id="golf-date-input">
+										<input class="form-control" type="date" value="2020-08-19" id="golf-date-input">
 										<div class="icon-all-banner" id="icon-faa">
 										  <i class=" icon-date-golf fa fa-calendar"></i>
 										</div>

@@ -9,7 +9,7 @@
 
 /********** Start  CSS header **************/
 .header{
-	height: 120px;
+    height: 94px;
 	background: #ec6707;
 }
 ul.link-top li {
@@ -31,7 +31,7 @@ ul.link-top li a{
 .header-top{width: 100%;
     clear: both;
     height: 30px;
-    margin-top : 26px;
+    margin-top : 8px;
 }
 .call-top {
     color: #FFF;
@@ -45,7 +45,7 @@ ul.link-top li a{
 .header-menu{
     width: 100%;
     background: #FFF;
-    height: 130px;
+    height: 116px;
     position: absolute;
     z-index: 1;
 }
@@ -63,10 +63,10 @@ ul.link-top li a{
     padding-bottom: 44px;
 }
 i.fa.fa-search.iconfaa {
-    height: 130px;
-    width: 130px;
+    height: 116px;
+    width: 116px;
     text-align: center;
-    padding: 34px 0px 0px 14px;
+    padding: 20px 0px 0px 6px;
     background: #ebebeb;
     margin-right: -16px;
     color: #94c11f;
@@ -76,11 +76,11 @@ i.fa.fa-search.iconfaa {
     float: right;
 }
 .logo.float-left {
-    margin-top: 24px;
+    margin-top: 6px;
     margin-left: 50px;
 }
 .menu.float-left {
-    margin-top: 40px;
+    margin-top: 26px;
 }
 img.img-logo.img-fluid {
     width: 100%;
@@ -89,6 +89,7 @@ img.img-logo.img-fluid {
 .menu ul li a{
     font-size: 20px;
     font-family: 'Mukta', sans-serif;
+    font-weight: bold;
 }
 .menu a.nav-link {
     font-size: 18px;
