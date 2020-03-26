@@ -133,7 +133,11 @@
 						      <p class="card-text"><small class="text-muted"><i class="fa fa-map-marker"></i>  Ha Noi</small></p>
 						      <div class="d-flex bd-highlight subwrap">
 								  <div class="p-2 flex-shrink-1 bd-highlight btnwrap"><p>Weekdays:</p></div>
-								  <div class="p-2 w-100 bd-highlight submarine"><p><b class="heading_intro">2.000.000 VND </b><strike>2.500.000 VND</strike></p></div>
+								  <div class="p-2 w-100 bd-highlight submarine">
+									  	<p>
+									  		<b class="heading_intro">2.000.000 VND  </b><strike>2.500.000 VND</strike>
+									    </p>
+								   </div>
 							  </div>
 							  <div class="d-flex bd-highlight subwrap" style="margin-top: 10px;">
 								  <div class="p-2 flex-shrink-1 bd-highlight btnwrap"><p>Weekdays:</p></div>

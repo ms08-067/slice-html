@@ -475,7 +475,7 @@ strike {
     height: 30px;
 }
 .p-2.w-100.bd-highlight.submarine {
-    margin-top: -8px;
+    margin-top: 0px;
 }
 div#list-stadium-between {
     background: #f6f4f4;
@@ -601,6 +601,10 @@ i.icon-date-golf.fa.fa-calendar {
     border-radius: 100px;
     margin-left: 2px;
     font-size: 26px;
+}
+.p-golf{
+    margin-top: 8px;
+    margin-left: 8px;
 }
 /*************  End CSS Booking *********************/
 
