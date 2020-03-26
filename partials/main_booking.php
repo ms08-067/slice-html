@@ -10,7 +10,7 @@
 			        		<div class="d-flex bd-highlight optionselect">
 							  <div class="p-2 flex-fill bd-highlight bg-golf">
 							  	<div class="centera">
-								  	<select class="form-control form-select-golf">
+								  	<select class="form-control" id="form-control-select">
 								      <option>Hà Nội</option>
 								      <option>Hồ Chí Minh</option>
 								      <option>Hà Tĩnh</option>
@@ -22,26 +22,32 @@
 							  </div>
 							  <div class="p-2 flex-fill bd-highlight bg-golf">
 							  	<div class="centera">
-								  	<select class="form-control form-select-golf">
-								      <option>Hà Nội</option>
-								      <option>Hồ Chí Minh</option>
-								      <option>Hà Tĩnh</option>
+								  	<select class="form-control" id="form-control-select">
+								      <option>Golf course</option>
+								      <option>Golf course</option>
+								      <option>Golf course</option>
 								    </select>
-								    <div class="icon-all-banner" id="icon-faa">
-									  <i class="fa fa-map-marker iconfa-iconfa"></i>
+								   <div class="icon-all-banner" id="icon-faa">
+									  <i class="fa fa-map-pin iconfa-iconfa"></i>
 									</div>
 								</div>
 							  </div>
 							  <div class="p-2 flex-fill bd-highlight bg-golf">
 							  	<div class="centera">
-								  	<select class="form-control form-select-golf">
+								  	<!-- <select class="form-control" id="form-control-select">
 								      <option>Hà Nội</option>
 								      <option>Hồ Chí Minh</option>
 								      <option>Hà Tĩnh</option>
 								    </select>
 								    <div class="icon-all-banner" id="icon-faa">
 									  <i class="fa fa-map-marker iconfa-iconfa"></i>
-									</div>
+									</div> -->
+									<div class="panel-input-date">
+										<input class="form-control" type="date" value="2011-08-19" id="golf-date-input">
+										<div class="icon-all-banner" id="icon-faa">
+										  <i class=" icon-date-golf fa fa-calendar"></i>
+										</div>
+						            </div>
 								</div>
 							  </div>
 							  <div class="p-2 flex-fill bd-highlight bg-golf-seach">

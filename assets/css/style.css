@@ -431,25 +431,28 @@ ul.link-top.float-right.header-register-login {
 }
 i.fa.fa-search.iconfab {
     text-align: center;
-    padding: 16px;
-    margin-top: -4px;
+    padding: 16px 0px 0px 4px;
+    margin-top: -14px;
     background: #94c11f;
     color: white;
-    font-size: 32px;
+    font-size: 44px;
     border-radius: 100px;
+    margin-left: -18px;
+    width: 70%;
+    height: 78px;
 }
 i.fa.iconfa-iconfa {
     position: relative;
     z-index: 4;
     color: white;
-    top: -38px;
+    top: -48px;
     width: 48px;
     background: #94c11f;
     float: left;
-    height: 48px;
+    height: 46px;
     padding: 8px;
     border-radius: 100px;
-    margin-left: -14px;
+    margin-left: 2px;
     font-size: 36px;
 }
 .d-flex.bd-highlight.subwrap {
@@ -559,19 +562,45 @@ a.btn.btn-outline-success.intro-dk:hover{
     border-bottom: solid 3px #fff !important;
 }
 .bg-golf{
-    width: 30%;
+    width: 28%;
 }
 .bg-golf-seach{
-    width: 10%;
+    width: 16%;
 }
 .optionselect {
     background: #1010106b;
-    height: 160px;
+    height: 130px;
     margin-bottom: -40px;
 }
-select.form-control.form-select-golf {
-    border: solid 1px red;
+select#form-control-select {
+    border: solid 1px white;
     border-radius: 30px;
+    padding: 0px 0px 0px 48px;
+    height: 50px;
+}
+.centera {
+    padding: 30px 0px 0px 18px;
+}
+input#golf-date-input {
+    border: solid 1px #94c11f;
+    border-radius: 30px;
+    width: 100%;
+    padding: 12px 0px 14px 56px;
+    height: 50px;
+}
+i.icon-date-golf.fa.fa-calendar {
+    position: relative;
+    z-index: 4;
+    color: white;
+    top: -46px;
+    width: 42px;
+    background: #94c11f;
+    float: left;
+    height: 42px;
+    padding: 6px 0px 0px 0px;
+    border-radius: 100px;
+    margin-left: 2px;
+    font-size: 26px;
 }
 /*************  End CSS Booking *********************/
 
