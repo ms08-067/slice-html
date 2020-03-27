@@ -49,7 +49,7 @@ ul.link-top li a{
 .header-menu{
     width: 100%;
     background: #FFF;
-    height: 116px;
+    height: 106px;
     position: absolute;
     z-index: 1;
 }
@@ -64,11 +64,11 @@ ul.link-top li a{
 .menu li.active > a, .menu li.nav-item a:hover {
 	color: #94c11f !important;
     border-bottom: solid 3px #94c11f;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
 }
 i.fa.fa-search.iconfaa {
-    height: 116px;
-    width: 116px;
+    height: 106px;
+    width: 106px;
     text-align: center;
     padding: 20px 0px 0px 6px;
     background: #ebebeb;
