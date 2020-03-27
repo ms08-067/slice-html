@@ -44,7 +44,7 @@
 				  </div>
 				  <div class="p-2 flex-fill bd-highlight list-teetime-time">
 				  	<div class="panel-input-Range">
-						<input type="range" class="custom-range" id="customRange1">
+						<div class="flat-slider" id="flat-slider"></div>
 						<div class="icon-all-banner" id="icon-faa">
 						  <i class="iconfa-icon fa fa-clock-o"></i>
 						</div>

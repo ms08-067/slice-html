@@ -33,6 +33,14 @@
 	    $(".date-picker").datepicker({
 	    	"dateFormat" : "dd-mm-yy"
 	    });
+
+
+	    $('#flat-slider').slider({
+		  orientation: 'horizontal',
+		  range:       true,
+		  values:      [17,67]
+		});
+	    
 	 } );
 
 </script>
