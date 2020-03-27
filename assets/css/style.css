@@ -572,7 +572,6 @@ a.btn.btn-outline-success.intro-dk:hover{
     color: #94c11f;
 }
 .partner-booking {
-	height: 250px;
 	width: 100%;
 	background: #94c11f;
 }
@@ -929,3 +928,12 @@ img.img-fluid.img-i-booking-retail {
 }
 
 /*************  End CSS Booking_retail *********************/
+
+
+
+/*************  Start CSS partner-booking *********************/
+.img-logo-golf{
+    margin-top: 22px;
+    margin-bottom: 60px;
+}
+/*************  End CSS partner-booking *********************/
