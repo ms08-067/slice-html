@@ -36,7 +36,7 @@
 				<div class="d-flex bd-highlight">
 				  <div class="p-2 flex-fill bd-highlight list-teetime-date">
 				  	<div class="panel-input-date">
-							<input class="form-control" type="date" value="2011-08-19" id="example-date-input">
+							<input class="form-control date-picker" type="text" value="" id="example-date-input">
 							<div class="icon-all-banner" id="icon-faa">
 							  <i class=" iconfa-iconfa iconfa-iconfafa fa fa-calendar"></i>
 							</div>

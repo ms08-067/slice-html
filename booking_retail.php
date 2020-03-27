@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Booking Retail</title>
 <link href="./assets/packages/bootstrap-4.0/css/bootstrap.css" rel="stylesheet"/>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <link href="./assets/css/style.css" rel="stylesheet"/>
 
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -24,7 +25,17 @@
 
 <script src="./assets/packages/jquery/jquery-3.4.1.min.js"></script>
 <script src="./assets/packages/bootstrap-4.0/js/bootstrap.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
-<script src="./assets/packages/jquery/jquery-3.4.1.min.js"></script>
+
+<script type="text/javascript">
+	$( function() {
+	    $(".date-picker").datepicker({
+	    	"dateFormat" : "dd-mm-yy"
+	    });
+	 } );
+
+</script>
+
 </body>
 </html>
