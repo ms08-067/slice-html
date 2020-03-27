@@ -131,7 +131,7 @@
 				<div class="row">
 	    			<div class="col col-lg-12">
 						<div class="section-title">
-							<h1 class="text-center"><span>FAVOURITE COURSE</span></h1>
+							<h2 class="text-center "><span>FAVOURITE COURSE</span></h2>
 						</div>
 					</div>
 				</div>
@@ -212,7 +212,7 @@
 				<div class="row">
 	    			<div class="col col-lg-12">
 						<div class="section-title">
-							<h1 class="text-center"><span>HOT DEAL</span></h1>
+							<h2 class="text-center"><span>HOT DEAL</span></h2>
 						</div>
 					</div>
 				</div>
@@ -365,7 +365,7 @@
 				<div class="row">
 	    			<div class="col col-lg-12">
 						<div class="section-title">
-							<h1 class="text-center"><span>GOLF TOURNAMENT</span></h1>
+							<h2 class="text-center"><span>GOLF TOURNAMENT</span></h2>
 						</div>
 					</div>
 				</div>
