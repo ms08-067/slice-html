@@ -488,7 +488,7 @@ strike {
     margin-top: 6px;
 }
 .p-2.w-100.bd-highlight.submarine {
-    margin-top: -4px;
+    margin-top: -6px;
 }
 div#list-stadium-between {
     background: #f6f4f4;
@@ -538,7 +538,7 @@ h6.card-title {
     border: solid 1px #94c11f;
     width: 302px;
     border-radius: 30px;
-    height: 26px;
+    height: 24px;
 }
 b.heading_intro.intro_font {
     font-size: 12px;
@@ -629,6 +629,15 @@ i.icon-date-golf.fa.fa-calendar {
 .card.card-list.card-list-bottom {
     margin-bottom: 40px;
     margin-top: 18px;
+}
+p.card-date-text {
+    font-size: 12px;
+    margin-bottom: 10px;
+    margin-top: -6px;
+    margin-left: 10px;
+}
+.card-register{
+    margin-bottom: 34px;
 }
 /*************  End CSS Booking *********************/
 

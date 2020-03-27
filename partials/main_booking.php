@@ -371,16 +371,16 @@
 				</div>
 
 				<div class="col-sm-12">
-					<div class="card-deck">
-						  <div class="card">
+					<div class="card-deck card-register">
+						  <div class="card card-list">
 						    <img class="card-img-top" src="./assets/img/6.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 
 						      <p class="card-text" style=""><small class="text-muted"><i class="fa fa-map-marker"></i>  Ba Na Hills Golf clup - Da Nang - Vietnam</small></p>
-						      <p class="card-text"><small class="text-muted"><i class="fa fa-calendar" style="font-size: 10px;"></i>  15/3/2020</small></p>
-						      <p class="card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-						      <p class="card-text"><small class="text-muted">  Hạn đăng ký: 10/3/2020</small></p>
+						      <p class="card-date-text"><small class="text-muted"><i class="fa fa-calendar" style="font-size: 10px;"></i>  15/3/2020</small></p>
+						      <p class="card-date-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
+						      <p class="card-date-text"><small class="text-muted">  Hạn đăng ký: 10/3/2020</small></p>
 						      <div class="d-flex bd-highlight">
 								  <div class="p-2 flex-shrink-1 bd-highlight bd-highlight-price">
 								  	<p style="font-size: 11px;margin-top: -6px;"><i class="fa fa-dollar fa-dollar-intro"></i><b class="heading_intro intro_font">2.000.000 </b>VND</p>
@@ -391,15 +391,15 @@
 							  </div>
 						    </div>
 						  </div>
-						  <div class="card">
+						  <div class="card card-list">
 						    <img class="card-img-top" src="./assets/img/6.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 
 						      <p class="card-text" style=""><small class="text-muted"><i class="fa fa-map-marker"></i>  Ba Na Hills Golf clup - Da Nang - Vietnam</small></p>
-						      <p class="card-text"><small class="text-muted"><i class="fa fa-calendar" style="font-size: 10px;"></i>  15/3/2020</small></p>
-						      <p class="card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-						      <p class="card-text"><small class="text-muted">  Hạn đăng ký: 10/3/2020</small></p>
+						      <p class="card-date-text"><small class="text-muted"><i class="fa fa-calendar" style="font-size: 10px;"></i>  15/3/2020</small></p>
+						      <p class="card-date-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
+						      <p class="card-date-text"><small class="text-muted">  Hạn đăng ký: 10/3/2020</small></p>
 						      <div class="d-flex bd-highlight">
 								  <div class="p-2 flex-shrink-1 bd-highlight bd-highlight-price">
 								  	<p style="font-size: 11px;margin-top: -6px;"><i class="fa fa-dollar fa-dollar-intro"></i><b class="heading_intro intro_font">2.000.000 </b>VND</p>
@@ -410,15 +410,15 @@
 							  </div>
 						    </div>
 						  </div>
-						  <div class="card">
+						  <div class="card card-list">
 						    <img class="card-img-top" src="./assets/img/6.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 
 						      <p class="card-text" style=""><small class="text-muted"><i class="fa fa-map-marker"></i>  Ba Na Hills Golf clup - Da Nang - Vietnam</small></p>
-						      <p class="card-text"><small class="text-muted"><i class="fa fa-calendar" style="font-size: 10px;"></i>  15/3/2020</small></p>
-						      <p class="card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-						      <p class="card-text"><small class="text-muted">  Hạn đăng ký: 10/3/2020</small></p>
+						      <p class="card-date-text"><small class="text-muted"><i class="fa fa-calendar" style="font-size: 10px;"></i>  15/3/2020</small></p>
+						      <p class="card-date-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
+						      <p class="card-date-text"><small class="text-muted">  Hạn đăng ký: 10/3/2020</small></p>
 						      <div class="d-flex bd-highlight">
 								  <div class="p-2 flex-shrink-1 bd-highlight bd-highlight-price">
 								  	<p style="font-size: 11px;margin-top: -6px;"><i class="fa fa-dollar fa-dollar-intro"></i><b class="heading_intro intro_font">2.000.000 </b>VND</p>
@@ -429,15 +429,15 @@
 							  </div>
 						    </div>
 						  </div>
-						  <div class="card">
+						  <div class="card card-list">
 						    <img class="card-img-top" src="./assets/img/6.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 
 						      <p class="card-text" style=""><small class="text-muted"><i class="fa fa-map-marker"></i>  Ba Na Hills Golf clup - Da Nang - Vietnam</small></p>
-						      <p class="card-text"><small class="text-muted"><i class="fa fa-calendar" style="font-size: 10px;"></i>  15/3/2020</small></p>
-						      <p class="card-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
-						      <p class="card-text"><small class="text-muted">  Hạn đăng ký: 10/3/2020</small></p>
+						      <p class="card-date-text"><small class="text-muted"><i class="fa fa-calendar" style="font-size: 10px;"></i>  15/3/2020</small></p>
+						      <p class="card-date-text"><small class="text-muted"><i class="	fa fa-user"></i>  50/100</small></p>
+						      <p class="card-date-text"><small class="text-muted">  Hạn đăng ký: 10/3/2020</small></p>
 						      <div class="d-flex bd-highlight">
 								  <div class="p-2 flex-shrink-1 bd-highlight bd-highlight-price">
 								  	<p style="font-size: 11px;margin-top: -6px;"><i class="fa fa-dollar fa-dollar-intro"></i><b class="heading_intro intro_font">2.000.000 </b>VND</p>
