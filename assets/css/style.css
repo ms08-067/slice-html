@@ -139,7 +139,7 @@ ul.link-top.float-right.header-register-login {
 }
 
 .main-booking .section-title .text-center span, .main-home .section-title .text-center span {
-	border-bottom: solid 3px #ec6707;
+	border-bottom: solid 4px #ec6707;
 	padding-bottom: 10px;
 }
 .main-booking .section-title h1, .main-home .section-title h1{
@@ -485,7 +485,7 @@ strike {
 }
 .d-flex.bd-highlight.subwrap {
     height: 24px;
-    margin-top: 10px;
+    margin-top: 6px;
 }
 .p-2.w-100.bd-highlight.submarine {
     margin-top: -4px;
@@ -500,6 +500,7 @@ a.btn.btn-outline-success {
     padding: 0px;
     background: white;
     color: #94c11f;
+    font-size: 12px;
 }
 a.btn.btn-outline-success:hover {
     background: #94c11f;
@@ -621,6 +622,13 @@ i.icon-date-golf.fa.fa-calendar {
 .p-golf{
     margin-top: 8px;
     margin-left: 8px;
+}
+.card-list{
+    margin-top: 12px;
+}
+.card.card-list.card-list-bottom {
+    margin-bottom: 40px;
+    margin-top: 18px;
 }
 /*************  End CSS Booking *********************/
 

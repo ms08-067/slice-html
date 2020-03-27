@@ -219,8 +219,8 @@
 
 				<div class="col-sm-12">
 					<div class="card-deck">
-						  <div class="card">
-						    <img class="card-img-top" src="./assets/img/5.jpg" alt="Card image cap">
+						  <div class="card card-list">
+						    <img class="card-img-top" src="./assets/img/7.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 						      <p class="card-text"><small class="text-muted"><i class="fa fa-map-marker"></i>  Ha Noi</small></p>
@@ -232,8 +232,8 @@
 							  </div>
 						    </div>
 						  </div>
-						  <div class="card">
-						    <img class="card-img-top" src="./assets/img/5.jpg" alt="Card image cap">
+						  <div class="card card-list">
+						    <img class="card-img-top" src="./assets/img/7.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 						      <p class="card-text"><small class="text-muted"><i class="fa fa-map-marker"></i>  Ha Noi</small></p>
@@ -245,8 +245,8 @@
 							  </div>
 						    </div>
 						  </div>
-						  <div class="card">
-						    <img class="card-img-top" src="./assets/img/5.jpg" alt="Card image cap">
+						  <div class="card card-list">
+						    <img class="card-img-top" src="./assets/img/7.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 						      <p class="card-text"><small class="text-muted"><i class="fa fa-map-marker"></i>  Ha Noi</small></p>
@@ -258,8 +258,8 @@
 							  </div>
 						    </div>
 						  </div>
-						  <div class="card">
-						    <img class="card-img-top" src="./assets/img/5.jpg" alt="Card image cap">
+						  <div class="card card-list">
+						    <img class="card-img-top" src="./assets/img/7.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 						      <p class="card-text"><small class="text-muted"><i class="fa fa-map-marker"></i>  Ha Noi</small></p>
@@ -271,8 +271,8 @@
 							  </div>
 						    </div>
 						  </div>
-						  <div class="card">
-						    <img class="card-img-top" src="./assets/img/5.jpg" alt="Card image cap">
+						  <div class="card card-list">
+						    <img class="card-img-top" src="./assets/img/7.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 						      <p class="card-text"><small class="text-muted"><i class="fa fa-map-marker"></i>  Ha Noi</small></p>
@@ -289,9 +289,9 @@
 			</div><!-- container -->
 			<div class="container">
 				<div class="col-sm-12">
-					<div class="card-deck">
-						  <div class="card">
-						    <img class="card-img-top" src="./assets/img/5.jpg" alt="Card image cap">
+					<div class="card-deck ">
+						  <div class="card card-list card-list-bottom">
+						    <img class="card-img-top" src="./assets/img/7.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 						      <p class="card-text"><small class="text-muted"><i class="fa fa-map-marker"></i>  Ha Noi</small></p>
@@ -303,8 +303,8 @@
 							  </div>
 						    </div>
 						  </div>
-						  <div class="card">
-						    <img class="card-img-top" src="./assets/img/5.jpg" alt="Card image cap">
+						  <div class="card card-list card-list-bottom">
+						    <img class="card-img-top" src="./assets/img/7.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 						      <p class="card-text"><small class="text-muted"><i class="fa fa-map-marker"></i>  Ha Noi</small></p>
@@ -316,8 +316,8 @@
 							  </div>
 						    </div>
 						  </div>
-						  <div class="card">
-						    <img class="card-img-top" src="./assets/img/5.jpg" alt="Card image cap">
+						  <div class="card card-list card-list-bottom">
+						    <img class="card-img-top" src="./assets/img/7.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 						      <p class="card-text"><small class="text-muted"><i class="fa fa-map-marker"></i>  Ha Noi</small></p>
@@ -329,8 +329,8 @@
 							  </div>
 						    </div>
 						  </div>
-						  <div class="card">
-						    <img class="card-img-top" src="./assets/img/5.jpg" alt="Card image cap">
+						  <div class="card card-list card-list-bottom">
+						    <img class="card-img-top" src="./assets/img/7.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 						      <p class="card-text"><small class="text-muted"><i class="fa fa-map-marker"></i>  Ha Noi</small></p>
@@ -342,8 +342,8 @@
 							  </div>
 						    </div>
 						  </div>
-						  <div class="card">
-						    <img class="card-img-top" src="./assets/img/5.jpg" alt="Card image cap">
+						  <div class="card card-list card-list-bottom">
+						    <img class="card-img-top" src="./assets/img/7.jpg" alt="Card image cap">
 						    <div class="card-body">
 						      <h6 class="card-title">FLC SAMSON GOF LINKS</h6>
 						      <p class="card-text"><small class="text-muted"><i class="fa fa-map-marker"></i>  Ha Noi</small></p>
